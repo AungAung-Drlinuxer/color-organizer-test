@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The best mind-altering drug is the truth. - Lily Tomlin
+It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends. - Albus Dumbledore
 <!--END_QUOTE-->
 
 ---
