@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams. - Robert Greene
+Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it. - Gurbaksh Chahal
 <!--END_QUOTE-->
 
 ---
