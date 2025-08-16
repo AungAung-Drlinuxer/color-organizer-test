@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it. - Gurbaksh Chahal
+Dreams provide nourishment for the soul, just as a meal does for the body. - Paulo Coelho
 <!--END_QUOTE-->
 
 ---
