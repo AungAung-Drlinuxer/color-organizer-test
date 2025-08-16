@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/color-organizer-test/static/css/main.2a6e2459.css",
+    "main.js": "/color-organizer-test/static/js/main.4f2f28c8.js",
+    "index.html": "/color-organizer-test/index.html",
+    "main.2a6e2459.css.map": "/color-organizer-test/static/css/main.2a6e2459.css.map",
+    "main.4f2f28c8.js.map": "/color-organizer-test/static/js/main.4f2f28c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a6e2459.css",
+    "static/js/main.4f2f28c8.js"
+  ]
+}
