@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-*Fetching today's quote of success from zenquotes.io...*
+The best mind-altering drug is the truth. - Lily Tomlin
 <!--END_QUOTE-->
 
 ---
