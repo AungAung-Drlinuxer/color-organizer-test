@@ -1,73 +1,44 @@
-# Name of the workflow, which will be displayed in the GitHub Actions UI.
 name: Deploy to GitHub Pages
-
-# Controls when the workflow will run.
 on:
-  # Triggers the workflow on push events for the "main" branch.
   push:
     branches:
       - main
-  # Allows you to run this workflow manually from the Actions tab.
   workflow_dispatch:
-
-# A concurrency group ensures that only one workflow run for a given branch/ref is in progress at a time.
-# If a new commit is pushed, any in-progress runs for the same branch will be canceled.
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
-
-# Defines the jobs that run in the workflow.
 jobs:
-  # The 'build' job is responsible for building the React application.
   build:
     name: Build
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Checks out your repository under $GITHUB_WORKSPACE, so your job can access it.
-      - name: Checkout
+      - name: Checkout code
         uses: actions/checkout@v4
-
-      # Step 2: Sets up Node.js environment and enables caching for npm dependencies.
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '18'
-          cache: 'npm' # Caches npm dependencies to speed up future runs.
-
-      # Step 3: Installs dependencies using 'npm ci' for a clean and faster installation from package-lock.json.
       - name: Install dependencies
-        run: npm ci
-
-      # Step 4: Builds the production version of the project.
+        run: npm install
       - name: Build project
         run: npm run build
-
-      # Step 5: Uploads the build output as an artifact to be used in the 'deploy' job.
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: production-files
           path: ./build
-
-  # The 'deploy' job is responsible for deploying the built application to GitHub Pages.
   deploy:
     name: Deploy
-    needs: build # This job depends on the 'build' job and will only run if it succeeds.
+    needs: build
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Grants write permissions to the GITHUB_TOKEN to push to the gh-pages branch.
+      contents: write
     steps:
-      # Step 1: Downloads the build artifact that was uploaded in the 'build' job.
       - name: Download artifact
         uses: actions/download-artifact@v4
         with:
           name: production-files
           path: ./build
-
-      # Step 2: Deploys the contents of the './build' directory to the 'gh-pages' branch.
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }} # The token is automatically provided by GitHub Actions.
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
           publish_branch: gh-pages
