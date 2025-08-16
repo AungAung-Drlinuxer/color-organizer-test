@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends. - Albus Dumbledore
+Wherever you are, and whatever you do, be in love. - Rumi
 <!--END_QUOTE-->
 
 ---
