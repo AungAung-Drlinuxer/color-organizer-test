@@ -1,0 +1,36 @@
+name: "Daily QOTD Update"
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+# github-actions[bot] က repo ကို push ခွင့်ရဖို့ contents: write permission လိုတယ်။
+permissions:
+  contents: write   # <-- commit & push ခွင့်ပေးတာ
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: npm install
+        working-directory: ./.github/actions/qotd-action
+
+      - name: Update README with Quote
+        uses: ./.github/actions/qotd-action
+
+      - name: Commit and Push
+        run: |
+          git config --global user.email "qotd@action.com"
+          git config --global user.name "Quote-Bot"
+          git add -A
+          commit_message="Added QOTD from GitHub Actions - $(date)"
+          git commit -m "$commit_message"
+          git push 
+        # github-actions[bot] က repo ကို push လုပ်ခွင့်မရှိ/ လုပ်ချင်ရင် Workflow ထဲမှာ push လုပ်တဲ့အချိန် GITHUB_TOKEN ကို credentials အဖြစ်သုံးရမယ်
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

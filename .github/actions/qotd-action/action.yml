@@ -1,0 +1,11 @@
+name: 'Update README with Quote'
+author: 'Aung Aung Myo Myint'
+description: 'Fetches a random quote and updates the README.md file.'
+inputs:
+  readme_path:
+    description: 'Path to the README.md file, relative to the repository root.'
+    required: false
+    default: 'README.md'
+runs:
+  using: 'node16'
+  main: 'update_readme.js'
