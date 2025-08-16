@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Wherever you are, and whatever you do, be in love. - Rumi
+Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams. - Robert Greene
 <!--END_QUOTE-->
 
 ---
