@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Dreams provide nourishment for the soul, just as a meal does for the body. - Paulo Coelho
+Don't explain your philosophy. Embody it. - Epictetus
 <!--END_QUOTE-->
 
 ---
