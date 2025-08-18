@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Don't explain your philosophy. Embody it. - Epictetus
+If you want work well done, select a busy man; the other kind has no time. - Elbert Hubbard
 <!--END_QUOTE-->
 
 ---
