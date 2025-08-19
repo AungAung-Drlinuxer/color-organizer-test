@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-If you want work well done, select a busy man; the other kind has no time. - Elbert Hubbard
+Watch what you say, and whatever you say, practice it. - Soyen Shaku
 <!--END_QUOTE-->
 
 ---
