@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Watch what you say, and whatever you say, practice it. - Soyen Shaku
+There is always risk, so learn to manage risk instead of avoiding it. - Robert Kiyosaki
 <!--END_QUOTE-->
 
 ---
