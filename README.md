@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-There is always risk, so learn to manage risk instead of avoiding it. - Robert Kiyosaki
+No man will make a great leader who wants to do it all himself or to get all the credit for doing it. - Andrew Carnegie
 <!--END_QUOTE-->
 
 ---
