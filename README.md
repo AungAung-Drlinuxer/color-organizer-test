@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-No man will make a great leader who wants to do it all himself or to get all the credit for doing it. - Andrew Carnegie
+Among the things you can give and still keep are your word, a smile, and a grateful heart. - Zig Ziglar
 <!--END_QUOTE-->
 
 ---
