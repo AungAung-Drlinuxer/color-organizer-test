@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Among the things you can give and still keep are your word, a smile, and a grateful heart. - Zig Ziglar
+Even if you're sure you can win, be careful that you can live with what you lose. - Gary Keller
 <!--END_QUOTE-->
 
 ---
