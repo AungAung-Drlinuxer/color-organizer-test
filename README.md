@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Even if you're sure you can win, be careful that you can live with what you lose. - Gary Keller
+Before you can see the Light, you have to deal with the darkness. - Dan Millman
 <!--END_QUOTE-->
 
 ---
