@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Before you can see the Light, you have to deal with the darkness. - Dan Millman
+Make each day a new horizon. - Christopher McCandless
 <!--END_QUOTE-->
 
 ---
