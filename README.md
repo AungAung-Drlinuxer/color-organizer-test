@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Make each day a new horizon. - Christopher McCandless
+If you want things to be different, perhaps the answer is to become different yourself. - Norman Vincent Peale
 <!--END_QUOTE-->
 
 ---
