@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-If you want things to be different, perhaps the answer is to become different yourself. - Norman Vincent Peale
+A goal is a dream with a deadline. - Napoleon Hill
 <!--END_QUOTE-->
 
 ---
