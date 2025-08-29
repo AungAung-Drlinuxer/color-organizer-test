@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Never feel shame for trying and failing, for he who has never failed is he who has never tried. - Og Mandino
+You cannot teach a crab to walk straight. - Aristophanes
 <!--END_QUOTE-->
 
 ---
