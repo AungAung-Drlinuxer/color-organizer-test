@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-You cannot teach a crab to walk straight. - Aristophanes
+Why live an ordinary life, when you can live an extraordinary one. - Tony Robbins
 <!--END_QUOTE-->
 
 ---
