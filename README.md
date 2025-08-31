@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Why live an ordinary life, when you can live an extraordinary one. - Tony Robbins
+Sorrow is how we learn to love. - Rita Mae Brown
 <!--END_QUOTE-->
 
 ---
