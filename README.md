@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Sorrow is how we learn to love. - Rita Mae Brown
+It's much better to do good in a way that no one knows anything about it. - Leo Tolstoy
 <!--END_QUOTE-->
 
 ---
