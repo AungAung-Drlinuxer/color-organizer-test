@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Sometimes you have to lose all you have to find out who you truly are. - Roy T. Bennett
+The purpose of life is to contribute in some way to making things better. - Robert F. Kennedy
 <!--END_QUOTE-->
 
 ---
