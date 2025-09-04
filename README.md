@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The purpose of life is to contribute in some way to making things better. - Robert F. Kennedy
+Kindness is a language which the deaf can hear and the blind can see. - Mark Twain
 <!--END_QUOTE-->
 
 ---
