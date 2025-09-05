@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Kindness is a language which the deaf can hear and the blind can see. - Mark Twain
+Everything you look at can become a fairy tale and you can get a story from everything you touch. - Hans Christian Andersen
 <!--END_QUOTE-->
 
 ---
