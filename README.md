@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Everything you look at can become a fairy tale and you can get a story from everything you touch. - Hans Christian Andersen
+Receive without pride, let go without attachment. - Marcus Aurelius
 <!--END_QUOTE-->
 
 ---
