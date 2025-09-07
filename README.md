@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Receive without pride, let go without attachment. - Marcus Aurelius
+The mind can calculate, but the spirit yearns, and the heart wants what the heart wants. - Stephen King
 <!--END_QUOTE-->
 
 ---
