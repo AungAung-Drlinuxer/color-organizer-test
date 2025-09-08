@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The mind can calculate, but the spirit yearns, and the heart wants what the heart wants. - Stephen King
+The dead receive more flowers than the living because regret is stronger than gratitude. - Anne Frank
 <!--END_QUOTE-->
 
 ---
