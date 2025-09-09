@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The dead receive more flowers than the living because regret is stronger than gratitude. - Anne Frank
+Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place. - Richard Bach
 <!--END_QUOTE-->
 
 ---
