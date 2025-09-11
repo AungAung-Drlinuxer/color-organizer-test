@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Don't just sit there. Do something. The answers will follow. - Mark Manson
+The highest form of ignorance is when you reject something you don't know anything about.  - Wayne Dyer
 <!--END_QUOTE-->
 
 ---
