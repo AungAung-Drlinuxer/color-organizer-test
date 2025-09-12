@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The highest form of ignorance is when you reject something you don't know anything about.  - Wayne Dyer
+Not why the addiction but why the pain. - Gabor Mate
 <!--END_QUOTE-->
 
 ---
