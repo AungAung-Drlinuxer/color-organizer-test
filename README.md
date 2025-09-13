@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Not why the addiction but why the pain. - Gabor Mate
+Believe you can and you will be halfway there. - Lolly Daskal
 <!--END_QUOTE-->
 
 ---
