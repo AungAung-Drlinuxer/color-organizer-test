@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Believe you can and you will be halfway there. - Lolly Daskal
+Keep away from people who try to belittle your ambitions. - Mark Twain
 <!--END_QUOTE-->
 
 ---
