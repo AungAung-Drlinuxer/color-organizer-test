@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Keep away from people who try to belittle your ambitions. - Mark Twain
+Conscience is a man's compass.  - Vincent van Gogh
 <!--END_QUOTE-->
 
 ---
