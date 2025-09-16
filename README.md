@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Conscience is a man's compass.  - Vincent van Gogh
+Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition. - John Eliot
 <!--END_QUOTE-->
 
 ---
