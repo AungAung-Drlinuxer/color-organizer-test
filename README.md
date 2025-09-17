@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition. - John Eliot
+We are all different. Don't judge, understand instead. - Roy T. Bennett
 <!--END_QUOTE-->
 
 ---
