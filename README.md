@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-We are all different. Don't judge, understand instead. - Roy T. Bennett
+Instead of worrying about what you cannot control, shift your energy to what you can create. - Roy T. Bennett
 <!--END_QUOTE-->
 
 ---
