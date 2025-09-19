@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Instead of worrying about what you cannot control, shift your energy to what you can create. - Roy T. Bennett
+It is better to light a single candle than to curse the darkness. - Eleanor Roosevelt
 <!--END_QUOTE-->
 
 ---
