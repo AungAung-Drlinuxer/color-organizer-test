@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-It is better to light a single candle than to curse the darkness. - Eleanor Roosevelt
+To travel is to be alive, but to get somewhere is to be dead. - Alan Watts
 <!--END_QUOTE-->
 
 ---
