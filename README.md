@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-To travel is to be alive, but to get somewhere is to be dead. - Alan Watts
+Life itself is the most wonderful fairy tale. - Hans Christian Andersen
 <!--END_QUOTE-->
 
 ---
