@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Life itself is the most wonderful fairy tale. - Hans Christian Andersen
+The outer conditions of a person's life will always be found to reflect their inner beliefs. - James Allen
 <!--END_QUOTE-->
 
 ---
