@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Failing is another stepping stone to greatness. - Oprah Winfrey
+All know the way; few actually walk it.  - Bodhidharma
 <!--END_QUOTE-->
 
 ---
