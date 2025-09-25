@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-All know the way; few actually walk it.  - Bodhidharma
+A diamond is a piece of charcoal that handled stress exceptionally well. - Unknown
 <!--END_QUOTE-->
 
 ---
