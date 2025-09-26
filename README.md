@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-A diamond is a piece of charcoal that handled stress exceptionally well. - Unknown
+Simple words, repeated daily, can change your life. - Maxime Lagace
 <!--END_QUOTE-->
 
 ---
