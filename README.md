@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Simple words, repeated daily, can change your life. - Maxime Lagace
+Take care of your body. It's the only place you have to live. - Jim Rohn
 <!--END_QUOTE-->
 
 ---
