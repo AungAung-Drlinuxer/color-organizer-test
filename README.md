@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Take care of your body. It's the only place you have to live. - Jim Rohn
+Get mad, then get over it. - Colin Powell
 <!--END_QUOTE-->
 
 ---
