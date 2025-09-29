@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Get mad, then get over it. - Colin Powell
+A lie can travel half way around the world while the truth is putting on its shoes. - Mark Twain
 <!--END_QUOTE-->
 
 ---
