@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-A lie can travel half way around the world while the truth is putting on its shoes. - Mark Twain
+Believe and you're halfway there. - Harry S. Truman
 <!--END_QUOTE-->
 
 ---
