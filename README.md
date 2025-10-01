@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Believe and you're halfway there. - Harry S. Truman
+Start the day with love, spend the day with love, fill the day with love and end the day with love. - Sathya Sai Baba
 <!--END_QUOTE-->
 
 ---
