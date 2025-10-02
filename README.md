@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Start the day with love, spend the day with love, fill the day with love and end the day with love. - Sathya Sai Baba
+Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage. - Celestine Chua
 <!--END_QUOTE-->
 
 ---
