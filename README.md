@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage. - Celestine Chua
+Lack of emotion causes lack of progress and lack of motivation. - Tony Robbins
 <!--END_QUOTE-->
 
 ---
