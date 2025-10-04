@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Lack of emotion causes lack of progress and lack of motivation. - Tony Robbins
+The only man who never makes mistakes is the man who never does anything. - Theodore Roosevelt
 <!--END_QUOTE-->
 
 ---
