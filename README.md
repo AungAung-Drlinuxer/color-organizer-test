@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The only man who never makes mistakes is the man who never does anything. - Theodore Roosevelt
+By failing to prepare, you are preparing to fail. - Benjamin Franklin
 <!--END_QUOTE-->
 
 ---
