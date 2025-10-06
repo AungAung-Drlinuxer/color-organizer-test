@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-By failing to prepare, you are preparing to fail. - Benjamin Franklin
+The divine is not something high above us. It is in heaven, it is in earth, it is inside us. - Morihei Ueshiba
 <!--END_QUOTE-->
 
 ---
