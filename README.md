@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The divine is not something high above us. It is in heaven, it is in earth, it is inside us. - Morihei Ueshiba
+You have to make time, even for something as universal as staring at the stars. - W.P. Kinsella
 <!--END_QUOTE-->
 
 ---
