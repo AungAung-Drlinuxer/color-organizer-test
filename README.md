@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-You have to make time, even for something as universal as staring at the stars. - W.P. Kinsella
+Trust thyself: every heart vibrates to that iron string. - Ralph Waldo Emerson
 <!--END_QUOTE-->
 
 ---
