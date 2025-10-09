@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Trust thyself: every heart vibrates to that iron string. - Ralph Waldo Emerson
+From the errors of others, a wise man corrects his own. - Publilius Syrus
 <!--END_QUOTE-->
 
 ---
