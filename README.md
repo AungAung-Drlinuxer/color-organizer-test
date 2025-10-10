@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-From the errors of others, a wise man corrects his own. - Publilius Syrus
+When a man is penalized for honesty he learns to lie. - Criss Jami
 <!--END_QUOTE-->
 
 ---
