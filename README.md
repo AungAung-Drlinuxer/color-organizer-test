@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-When a man is penalized for honesty he learns to lie. - Criss Jami
+The best fighter is never angry. - Lao Tzu
 <!--END_QUOTE-->
 
 ---
