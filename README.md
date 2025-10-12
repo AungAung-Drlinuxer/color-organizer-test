@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The best fighter is never angry. - Lao Tzu
+People think you're crazy if you talk about things they don't understand. - Elvis Presley
 <!--END_QUOTE-->
 
 ---
