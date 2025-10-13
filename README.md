@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-People think you're crazy if you talk about things they don't understand. - Elvis Presley
+Your mind will make you rich or poor, depending on the use you put to it. - Brian Tracy
 <!--END_QUOTE-->
 
 ---
