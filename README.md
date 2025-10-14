@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Your mind will make you rich or poor, depending on the use you put to it. - Brian Tracy
+Live and act within the limit of your knowledge and keep expanding it to the limit of your life. - Ayn Rand
 <!--END_QUOTE-->
 
 ---
