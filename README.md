@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Live and act within the limit of your knowledge and keep expanding it to the limit of your life. - Ayn Rand
+If you want to make God laugh, tell him about your plans.  - Woody Allen
 <!--END_QUOTE-->
 
 ---
