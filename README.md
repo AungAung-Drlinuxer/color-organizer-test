@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-If you want to make God laugh, tell him about your plans.  - Woody Allen
+There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return. - Nelson Mandela
 <!--END_QUOTE-->
 
 ---
