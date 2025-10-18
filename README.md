@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome. - Dan Millman
+Never fear quarrels, but seek hazardous adventures. - Alexandre Dumas
 <!--END_QUOTE-->
 
 ---
