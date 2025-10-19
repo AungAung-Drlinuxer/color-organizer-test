@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Never fear quarrels, but seek hazardous adventures. - Alexandre Dumas
+Be the change that you want to see in the world. - Mahatma Gandhi
 <!--END_QUOTE-->
 
 ---
