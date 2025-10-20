@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Be the change that you want to see in the world. - Mahatma Gandhi
+The best way to understanding is a few good examples. - Isaac Newton
 <!--END_QUOTE-->
 
 ---
