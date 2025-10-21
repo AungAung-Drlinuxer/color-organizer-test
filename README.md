@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The best way to understanding is a few good examples. - Isaac Newton
+Knowing is not enough, we must apply. Willing is not enough, we must do. - Johann Wolfgang von Goethe
 <!--END_QUOTE-->
 
 ---
