@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Knowing is not enough, we must apply. Willing is not enough, we must do. - Johann Wolfgang von Goethe
+The cost of leadership is self-interest. - Simon Sinek
 <!--END_QUOTE-->
 
 ---
