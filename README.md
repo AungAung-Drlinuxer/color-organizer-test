@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The cost of leadership is self-interest. - Simon Sinek
+What are we doing here, that is the question. - Samuel Beckett
 <!--END_QUOTE-->
 
 ---
