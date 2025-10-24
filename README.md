@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-What are we doing here, that is the question. - Samuel Beckett
+There is no greatness where there is not simplicity, goodness, and truth. - Leo Tolstoy
 <!--END_QUOTE-->
 
 ---
