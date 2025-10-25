@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-There is no greatness where there is not simplicity, goodness, and truth. - Leo Tolstoy
+To arrive at the simplest truth requires years of contemplation. - Isaac Newton
 <!--END_QUOTE-->
 
 ---
