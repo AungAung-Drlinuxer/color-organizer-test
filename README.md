@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-To arrive at the simplest truth requires years of contemplation. - Isaac Newton
+The degree of responsibility you take for your life determines how much change you can create in it. - Celestine Chua
 <!--END_QUOTE-->
 
 ---
