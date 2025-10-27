@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The degree of responsibility you take for your life determines how much change you can create in it. - Celestine Chua
+Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy. - Ralph Marston
 <!--END_QUOTE-->
 
 ---
