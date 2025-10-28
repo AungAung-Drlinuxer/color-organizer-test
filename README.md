@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy. - Ralph Marston
+A fear of weakness only strengthens weakness. - Criss Jami
 <!--END_QUOTE-->
 
 ---
