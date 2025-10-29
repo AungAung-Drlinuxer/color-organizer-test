@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-A fear of weakness only strengthens weakness. - Criss Jami
+If you want to be successful, you have to jump, there's no way around it. - Steve Harvey
 <!--END_QUOTE-->
 
 ---
