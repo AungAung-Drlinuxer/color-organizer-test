@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-If you want to be successful, you have to jump, there's no way around it. - Steve Harvey
+There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose. - Elbert Hubbard
 <!--END_QUOTE-->
 
 ---
