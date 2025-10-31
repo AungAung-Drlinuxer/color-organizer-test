@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose. - Elbert Hubbard
+Patience is not the ability to wait but the ability to keep a good attitude while waiting. - Joyce Meyer
 <!--END_QUOTE-->
 
 ---
