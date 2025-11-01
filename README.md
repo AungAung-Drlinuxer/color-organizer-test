@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Patience is not the ability to wait but the ability to keep a good attitude while waiting. - Joyce Meyer
+The person who says something is impossible should not interrupt the person who is doing it. - Chinese Proverb
 <!--END_QUOTE-->
 
 ---
