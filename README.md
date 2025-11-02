@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The person who says something is impossible should not interrupt the person who is doing it. - Chinese Proverb
+To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking. - Johann Wolfgang von Goethe
 <!--END_QUOTE-->
 
 ---
