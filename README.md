@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking. - Johann Wolfgang von Goethe
+If you're walking down the right path and you're willing to keep walking, eventually you'll make progress. - Barack Obama
 <!--END_QUOTE-->
 
 ---
