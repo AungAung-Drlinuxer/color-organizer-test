@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-If you're walking down the right path and you're willing to keep walking, eventually you'll make progress. - Barack Obama
+Nothing can survive without food. Everything we consume acts either to heal us or to poison us. - Thich Nhat Hanh
 <!--END_QUOTE-->
 
 ---
