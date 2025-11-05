@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Nothing can survive without food. Everything we consume acts either to heal us or to poison us. - Thich Nhat Hanh
+Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail. - Arnold Schwarzenegger
 <!--END_QUOTE-->
 
 ---
