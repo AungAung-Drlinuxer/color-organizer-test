@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail. - Arnold Schwarzenegger
+It is not what we get. But who we become, what we contribute... that gives meaning to our lives. - Tony Robbins
 <!--END_QUOTE-->
 
 ---
