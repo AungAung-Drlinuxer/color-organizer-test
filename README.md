@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-It is not what we get. But who we become, what we contribute... that gives meaning to our lives. - Tony Robbins
+If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present. - Roy T. Bennett
 <!--END_QUOTE-->
 
 ---
