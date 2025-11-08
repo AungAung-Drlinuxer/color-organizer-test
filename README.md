@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present. - Roy T. Bennett
+Develop success from failures. Discouragement and failure are two of the surest stepping stones to success. - Dale Carnegie
 <!--END_QUOTE-->
 
 ---
