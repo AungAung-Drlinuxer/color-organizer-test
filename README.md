@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Develop success from failures. Discouragement and failure are two of the surest stepping stones to success. - Dale Carnegie
+Friendship takes time and energy if it's going to work. - Betty White
 <!--END_QUOTE-->
 
 ---
