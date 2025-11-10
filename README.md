@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Friendship takes time and energy if it's going to work. - Betty White
+The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you. - Sonia Ricotti
 <!--END_QUOTE-->
 
 ---
