@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you. - Sonia Ricotti
+Don't look for meaning in the words. Listen to the silences. - Samuel Beckett
 <!--END_QUOTE-->
 
 ---
