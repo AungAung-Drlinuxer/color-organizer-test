@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Don't look for meaning in the words. Listen to the silences. - Samuel Beckett
+Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years. - Richard Bach
 <!--END_QUOTE-->
 
 ---
