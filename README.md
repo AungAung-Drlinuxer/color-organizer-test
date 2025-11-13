@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years. - Richard Bach
+Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success. - Robert Kiyosaki
 <!--END_QUOTE-->
 
 ---
