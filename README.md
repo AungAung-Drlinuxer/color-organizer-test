@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success. - Robert Kiyosaki
+Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned. - Ming-Dao Deng
 <!--END_QUOTE-->
 
 ---
