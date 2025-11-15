@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned. - Ming-Dao Deng
+The first man gets the oyster, the second man gets the shell. - Andrew Carnegie
 <!--END_QUOTE-->
 
 ---
