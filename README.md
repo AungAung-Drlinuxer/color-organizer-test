@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The first man gets the oyster, the second man gets the shell. - Andrew Carnegie
+Tomorrow is only found in the calendar of fools. - Og Mandino
 <!--END_QUOTE-->
 
 ---
