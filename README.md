@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Tomorrow is only found in the calendar of fools. - Og Mandino
+Rest in reason; move in passion. - Kahlil Gibran
 <!--END_QUOTE-->
 
 ---
