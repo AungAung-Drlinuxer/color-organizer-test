@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Rest in reason; move in passion. - Kahlil Gibran
+I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves. - Steve Maraboli
 <!--END_QUOTE-->
 
 ---
