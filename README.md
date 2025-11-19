@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves. - Steve Maraboli
+Don't let the noise of others' opinions drown out your own inner voice. - Steve Jobs
 <!--END_QUOTE-->
 
 ---
