@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Don't let the noise of others' opinions drown out your own inner voice. - Steve Jobs
+Live in the sunshine, swim the sea, drink the wild air. - Ralph Waldo Emerson
 <!--END_QUOTE-->
 
 ---
