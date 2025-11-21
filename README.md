@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Live in the sunshine, swim the sea, drink the wild air. - Ralph Waldo Emerson
+Sometimes you have to shut your eyes, so you can see the real beauty. - Kilian Jornet
 <!--END_QUOTE-->
 
 ---
