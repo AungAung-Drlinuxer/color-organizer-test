@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Sometimes you have to shut your eyes, so you can see the real beauty. - Kilian Jornet
+Desire is suffering. - Naval Ravikant
 <!--END_QUOTE-->
 
 ---
