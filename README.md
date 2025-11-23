@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Desire is suffering. - Naval Ravikant
+Sometimes you have to lose all you have to find out who you truly are. - Roy T. Bennett
 <!--END_QUOTE-->
 
 ---
