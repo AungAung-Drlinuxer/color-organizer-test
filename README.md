@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Sometimes you have to lose all you have to find out who you truly are. - Roy T. Bennett
+We meet ourselves time and again in a thousand disguises on the path of life. - Carl Jung
 <!--END_QUOTE-->
 
 ---
