@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-We meet ourselves time and again in a thousand disguises on the path of life. - Carl Jung
+A minute's success pays the failure of years. - Robert Browning
 <!--END_QUOTE-->
 
 ---
