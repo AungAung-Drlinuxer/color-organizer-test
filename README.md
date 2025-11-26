@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-A minute's success pays the failure of years. - Robert Browning
+He who wishes to be obeyed must know how to command. - Niccolo Machiavelli
 <!--END_QUOTE-->
 
 ---
