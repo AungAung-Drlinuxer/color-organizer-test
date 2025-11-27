@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-He who wishes to be obeyed must know how to command. - Niccolo Machiavelli
+Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge. - Eckhart Tolle
 <!--END_QUOTE-->
 
 ---
