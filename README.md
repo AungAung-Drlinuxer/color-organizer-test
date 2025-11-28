@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge. - Eckhart Tolle
+Progress comes to those who train and train; reliance on secret techniques will get you nowhere. - Morihei Ueshiba
 <!--END_QUOTE-->
 
 ---
