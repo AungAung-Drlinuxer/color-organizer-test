@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Progress comes to those who train and train; reliance on secret techniques will get you nowhere. - Morihei Ueshiba
+The greatest treasures are those invisible to the eye but found by the heart. - Judy Garland
 <!--END_QUOTE-->
 
 ---
