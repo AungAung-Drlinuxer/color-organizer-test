@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The greatest treasures are those invisible to the eye but found by the heart. - Judy Garland
+Argue for your limitations and sure enough, they're yours. - Richard Bach
 <!--END_QUOTE-->
 
 ---
