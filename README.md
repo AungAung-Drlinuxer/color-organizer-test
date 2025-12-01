@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Argue for your limitations and sure enough, they're yours. - Richard Bach
+The purpose of life is the expansion of happiness. - Deepak Chopra
 <!--END_QUOTE-->
 
 ---
