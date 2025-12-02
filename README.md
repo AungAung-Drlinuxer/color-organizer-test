@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The purpose of life is the expansion of happiness. - Deepak Chopra
+Your work is to discover your work and then, with all your heart, to give yourself to it. - Buddha
 <!--END_QUOTE-->
 
 ---
