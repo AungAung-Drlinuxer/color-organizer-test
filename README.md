@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Your work is to discover your work and then, with all your heart, to give yourself to it. - Buddha
+Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time. - Thomas Jefferson
 <!--END_QUOTE-->
 
 ---
