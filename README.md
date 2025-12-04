@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time. - Thomas Jefferson
+You can do two things at once, but you can't focus effectively on two things at once. - Gary Keller
 <!--END_QUOTE-->
 
 ---
