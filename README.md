@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-You can do two things at once, but you can't focus effectively on two things at once. - Gary Keller
+Don't seek, don't search, don't ask, don't knock, don't demand - relax. - Osho
 <!--END_QUOTE-->
 
 ---
