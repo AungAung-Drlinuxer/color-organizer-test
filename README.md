@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Don't seek, don't search, don't ask, don't knock, don't demand - relax. - Osho
+Never take your position for granted and never let any favors you receive go to your head. - Robert Greene
 <!--END_QUOTE-->
 
 ---
