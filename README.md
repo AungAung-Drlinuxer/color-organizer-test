@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Never take your position for granted and never let any favors you receive go to your head. - Robert Greene
+The quality of your life is determined by the quality of your thoughts. - Unknown
 <!--END_QUOTE-->
 
 ---
