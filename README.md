@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The quality of your life is determined by the quality of your thoughts. - Unknown
+Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results. - James Allen
 <!--END_QUOTE-->
 
 ---
