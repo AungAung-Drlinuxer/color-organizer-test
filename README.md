@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results. - James Allen
+When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you. - Sonia Ricotti
 <!--END_QUOTE-->
 
 ---
