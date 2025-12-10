@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you. - Sonia Ricotti
+If someone betrays you once, it's their fault; if they betray you twice, it's your fault. - Eleanor Roosevelt
 <!--END_QUOTE-->
 
 ---
