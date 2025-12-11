@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-If someone betrays you once, it's their fault; if they betray you twice, it's your fault. - Eleanor Roosevelt
+Given the choice between the experience of pain and nothing, I would choose pain. - William Faulkner
 <!--END_QUOTE-->
 
 ---
