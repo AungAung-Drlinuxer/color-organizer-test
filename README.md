@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Given the choice between the experience of pain and nothing, I would choose pain. - William Faulkner
+Don't listen to the person who has the answers; listen to the person who has the questions. - Albert Einstein
 <!--END_QUOTE-->
 
 ---
