@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Don't listen to the person who has the answers; listen to the person who has the questions. - Albert Einstein
+If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes. - Andrew Carnegie
 <!--END_QUOTE-->
 
 ---
