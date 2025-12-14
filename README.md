@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes. - Andrew Carnegie
+Every failure brings with it the seed of an equivalent success. - Napoleon Hill
 <!--END_QUOTE-->
 
 ---
