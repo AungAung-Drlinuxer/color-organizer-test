@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Every failure brings with it the seed of an equivalent success. - Napoleon Hill
+No one can hurt you without your consent. - Eleanor Roosevelt
 <!--END_QUOTE-->
 
 ---
