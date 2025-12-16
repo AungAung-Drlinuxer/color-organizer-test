@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-No one can hurt you without your consent. - Eleanor Roosevelt
+I can live without money, but I cannot live without love. - Judy Garland
 <!--END_QUOTE-->
 
 ---
