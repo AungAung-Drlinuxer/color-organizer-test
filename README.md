@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-I can live without money, but I cannot live without love. - Judy Garland
+It's easier to go down a hill than up it but the view is much better at the top. - Henry Ward Beecher
 <!--END_QUOTE-->
 
 ---
