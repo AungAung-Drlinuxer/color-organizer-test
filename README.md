@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-It's easier to go down a hill than up it but the view is much better at the top. - Henry Ward Beecher
+One must be poor to know the luxury of giving. - George Eliot
 <!--END_QUOTE-->
 
 ---
