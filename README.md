@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-One must be poor to know the luxury of giving. - George Eliot
+Success comes from knowing that you did your best to become the best that you are capable of becoming. - John Wooden
 <!--END_QUOTE-->
 
 ---
