@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Success comes from knowing that you did your best to become the best that you are capable of becoming. - John Wooden
+Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree.  - Martin Luther
 <!--END_QUOTE-->
 
 ---
