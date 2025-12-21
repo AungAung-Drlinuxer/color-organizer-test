@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree.  - Martin Luther
+We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves. - Kamal Ravikant
 <!--END_QUOTE-->
 
 ---
