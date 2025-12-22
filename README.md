@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves. - Kamal Ravikant
+Happiness is the spiritual experience of living every minute with love, grace and gratitude. - Denis Waitley
 <!--END_QUOTE-->
 
 ---
