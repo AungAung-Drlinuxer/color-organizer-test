@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Happiness is the spiritual experience of living every minute with love, grace and gratitude. - Denis Waitley
+You are the sky. Everything else - it's just the weather. - Pema Chodron
 <!--END_QUOTE-->
 
 ---
