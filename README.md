@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-You are the sky. Everything else - it's just the weather. - Pema Chodron
+Not all of us can do great things. But we can do small things with great love. - Mother Teresa
 <!--END_QUOTE-->
 
 ---
