@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Not all of us can do great things. But we can do small things with great love. - Mother Teresa
+People should pursue what they're passionate about. That will make them happier than pretty much anything else. - Elon Musk
 <!--END_QUOTE-->
 
 ---
