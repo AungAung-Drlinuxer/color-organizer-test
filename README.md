@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-People should pursue what they're passionate about. That will make them happier than pretty much anything else. - Elon Musk
+Think and wonder, wonder and think. - Dr. Seuss
 <!--END_QUOTE-->
 
 ---
