@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-We learn to walk by falling down. If we never fell down, we would never walk. - Robert Kiyosaki
+People who avoid failure also avoid success. - Robert Kiyosaki
 <!--END_QUOTE-->
 
 ---
