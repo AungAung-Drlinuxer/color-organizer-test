@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-People who avoid failure also avoid success. - Robert Kiyosaki
+Instead of thinking outside the box, get rid of the box. - Deepak Chopra
 <!--END_QUOTE-->
 
 ---
