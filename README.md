@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Instead of thinking outside the box, get rid of the box. - Deepak Chopra
+Leadership is solving problems - Colin Powell
 <!--END_QUOTE-->
 
 ---
