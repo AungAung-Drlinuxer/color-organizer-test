@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Leadership is solving problems - Colin Powell
+Being entirely honest with oneself is a good exercise. - Sigmund Freud
 <!--END_QUOTE-->
 
 ---
