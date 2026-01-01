@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Being entirely honest with oneself is a good exercise. - Sigmund Freud
+Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through. - Jonathan Swift
 <!--END_QUOTE-->
 
 ---
