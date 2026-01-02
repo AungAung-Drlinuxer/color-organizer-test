@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through. - Jonathan Swift
+A crisis is an opportunity riding the dangerous wind. - Chinese Proverb
 <!--END_QUOTE-->
 
 ---
