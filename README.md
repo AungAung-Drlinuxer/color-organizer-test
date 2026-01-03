@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-A crisis is an opportunity riding the dangerous wind. - Chinese Proverb
+I believe that potential is unlimited - success depends on daring to act on dreams.    - Estee Lauder
 <!--END_QUOTE-->
 
 ---
