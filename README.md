@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-I believe that potential is unlimited - success depends on daring to act on dreams.    - Estee Lauder
+One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man. - Elbert Hubbard
 <!--END_QUOTE-->
 
 ---
