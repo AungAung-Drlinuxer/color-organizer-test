@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man. - Elbert Hubbard
+It's your road, and yours alone, others may walk it with you, but no one can walk it for you. - Rumi
 <!--END_QUOTE-->
 
 ---
