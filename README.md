@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-It's your road, and yours alone, others may walk it with you, but no one can walk it for you. - Rumi
+The key to success is to focus our conscious mind on things we desire not things we fear.  - Brian Tracy
 <!--END_QUOTE-->
 
 ---
