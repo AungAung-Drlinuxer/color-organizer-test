@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The key to success is to focus our conscious mind on things we desire not things we fear.  - Brian Tracy
+If you can handle rejection, you'll learn to get everything you want. - Tony Robbins
 <!--END_QUOTE-->
 
 ---
