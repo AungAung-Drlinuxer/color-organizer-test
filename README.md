@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-If you can handle rejection, you'll learn to get everything you want. - Tony Robbins
+There are more people who wish to be loved than there are who are willing to love.  - Nicolas Chamfort
 <!--END_QUOTE-->
 
 ---
