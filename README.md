@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-There are more people who wish to be loved than there are who are willing to love.  - Nicolas Chamfort
+The more reasons you have for achieving your goal, the more determined you will become. - Brian Tracy
 <!--END_QUOTE-->
 
 ---
