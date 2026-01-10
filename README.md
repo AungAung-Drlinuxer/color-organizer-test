@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The more reasons you have for achieving your goal, the more determined you will become. - Brian Tracy
+A comfort zone is a beautiful place, but nothing ever grows there. - Unknown
 <!--END_QUOTE-->
 
 ---
