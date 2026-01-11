@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-A comfort zone is a beautiful place, but nothing ever grows there. - Unknown
+The more you praise and celebrate your life, the more there is in life to celebrate.  - Oprah Winfrey
 <!--END_QUOTE-->
 
 ---
