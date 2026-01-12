@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The more you praise and celebrate your life, the more there is in life to celebrate.  - Oprah Winfrey
+High thoughts must have high language. - Aristophanes
 <!--END_QUOTE-->
 
 ---
