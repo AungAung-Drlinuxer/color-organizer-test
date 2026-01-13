@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-High thoughts must have high language. - Aristophanes
+Small men think they are small; great men never know they are great.  - Chinese Proverb
 <!--END_QUOTE-->
 
 ---
