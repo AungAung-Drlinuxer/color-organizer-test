@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Small men think they are small; great men never know they are great.  - Chinese Proverb
+How you think is as important as as what you think. - Unknown
 <!--END_QUOTE-->
 
 ---
