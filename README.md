@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-How you think is as important as as what you think. - Unknown
+Life is either a daring adventure, or nothing. - Helen Keller
 <!--END_QUOTE-->
 
 ---
