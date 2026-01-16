@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Life is either a daring adventure, or nothing. - Helen Keller
+It still holds true that man is most uniquely human when he turns obstacles into opportunities. - Eric Hoffer
 <!--END_QUOTE-->
 
 ---
