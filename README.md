@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-There is a difference between giving directions and giving direction. - Simon Sinek
+It is better to disappoint people with the truth than to appease them with a lie. - Simon Sinek
 <!--END_QUOTE-->
 
 ---
