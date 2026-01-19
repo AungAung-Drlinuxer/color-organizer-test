@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-It is better to disappoint people with the truth than to appease them with a lie. - Simon Sinek
+Love is the absence of judgment. - Dalai Lama
 <!--END_QUOTE-->
 
 ---
