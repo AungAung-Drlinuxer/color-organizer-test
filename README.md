@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Love is the absence of judgment. - Dalai Lama
+If you need inspiration, don't do it. - Elon Musk
 <!--END_QUOTE-->
 
 ---
