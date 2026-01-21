@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-If you need inspiration, don't do it. - Elon Musk
+Associate with people who are likely to improve you.   - Seneca
 <!--END_QUOTE-->
 
 ---
