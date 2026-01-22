@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Associate with people who are likely to improve you.   - Seneca
+One of the first signs of the beginning of understanding is the wish to die.  - Franz Kafka
 <!--END_QUOTE-->
 
 ---
