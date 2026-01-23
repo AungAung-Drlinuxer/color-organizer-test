@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-One of the first signs of the beginning of understanding is the wish to die.  - Franz Kafka
+A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction. - Criss Jami
 <!--END_QUOTE-->
 
 ---
