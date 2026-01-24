@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction. - Criss Jami
+They who have conquered doubt and fear have conquered failure. - James Allen
 <!--END_QUOTE-->
 
 ---
