@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-They who have conquered doubt and fear have conquered failure. - James Allen
+All our knowledge has its origins in our perceptions. - Leonardo da Vinci
 <!--END_QUOTE-->
 
 ---
