@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-All our knowledge has its origins in our perceptions. - Leonardo da Vinci
+If I cannot do great things. I can do small things in a great way. - Martin Luther King, Jr.
 <!--END_QUOTE-->
 
 ---
