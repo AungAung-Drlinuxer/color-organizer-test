@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-If I cannot do great things. I can do small things in a great way. - Martin Luther King, Jr.
+Winners don't Quit. That's why they Win. - Unknown
 <!--END_QUOTE-->
 
 ---
