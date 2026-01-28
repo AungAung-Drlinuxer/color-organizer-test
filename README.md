@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Winners don't Quit. That's why they Win. - Unknown
+We may not be able to stop evil in the world, but how we treat one another is entirely up to us. - Barack Obama
 <!--END_QUOTE-->
 
 ---
