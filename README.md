@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Life is either a daring adventure, or nothing. - Helen Keller
+Everything great that has ever happened to humanity has begun as a single thought in someone's mind. - Yanni
 <!--END_QUOTE-->
 
 ---
