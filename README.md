@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Everything great that has ever happened to humanity has begun as a single thought in someone's mind. - Yanni
+A man is great not because he hasn't failed; a man is great because failure hasn't stopped him. - Confucius
 <!--END_QUOTE-->
 
 ---
