@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-A man is great not because he hasn't failed; a man is great because failure hasn't stopped him. - Confucius
+To be great is to be misunderstood. - Ralph Waldo Emerson
 <!--END_QUOTE-->
 
 ---
