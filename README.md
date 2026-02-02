@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-To be great is to be misunderstood. - Ralph Waldo Emerson
+However difficult life may seem, there is always something you can do and succeed at. - Stephen Hawking
 <!--END_QUOTE-->
 
 ---
