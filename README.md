@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-However difficult life may seem, there is always something you can do and succeed at. - Stephen Hawking
+A clever person turns great troubles into little ones, and little ones into none at all.  - Chinese Proverb
 <!--END_QUOTE-->
 
 ---
