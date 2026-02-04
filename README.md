@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-A clever person turns great troubles into little ones, and little ones into none at all.  - Chinese Proverb
+Inspire yourself to be great. Being good isn't good enough. - Gurbaksh Chahal
 <!--END_QUOTE-->
 
 ---
