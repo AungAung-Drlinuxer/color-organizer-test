@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Inspire yourself to be great. Being good isn't good enough. - Gurbaksh Chahal
+You are what you believe yourself to be. - Paulo Coelho
 <!--END_QUOTE-->
 
 ---
