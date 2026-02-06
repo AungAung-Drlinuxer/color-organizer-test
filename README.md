@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-You are what you believe yourself to be. - Paulo Coelho
+Darkness is the absence of light. - Kamal Ravikant
 <!--END_QUOTE-->
 
 ---
