@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Darkness is the absence of light. - Kamal Ravikant
+When you are tough on yourself, life is going to be infinitely easier on you.   - Zig Ziglar
 <!--END_QUOTE-->
 
 ---
