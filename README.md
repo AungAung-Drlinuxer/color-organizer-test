@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-When you are tough on yourself, life is going to be infinitely easier on you.   - Zig Ziglar
+Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything. - Shunryu Suzuki
 <!--END_QUOTE-->
 
 ---
