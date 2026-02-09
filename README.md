@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything. - Shunryu Suzuki
+Peace is not the absence of conflict, but the ability to cope with it. - Unknown
 <!--END_QUOTE-->
 
 ---
