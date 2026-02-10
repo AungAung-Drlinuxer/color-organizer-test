@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Peace is not the absence of conflict, but the ability to cope with it. - Unknown
+The world is open for play, everything and everybody is mockable in a wonderful way. - Robin Williams
 <!--END_QUOTE-->
 
 ---
