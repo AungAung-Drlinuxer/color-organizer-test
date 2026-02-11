@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The world is open for play, everything and everybody is mockable in a wonderful way. - Robin Williams
+Life is what you make it. Always has been, always will be. - Eleanor Roosevelt
 <!--END_QUOTE-->
 
 ---
