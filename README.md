@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Life is what you make it. Always has been, always will be. - Eleanor Roosevelt
+Words have no power to impress the mind without the exquisite horror of their reality. - Edgar Allan Poe
 <!--END_QUOTE-->
 
 ---
