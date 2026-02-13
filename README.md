@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Words have no power to impress the mind without the exquisite horror of their reality. - Edgar Allan Poe
+The world doesn't always give you want, but it often gives you what you need. - Naval Ravikant
 <!--END_QUOTE-->
 
 ---
