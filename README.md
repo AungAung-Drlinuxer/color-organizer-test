@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The world doesn't always give you want, but it often gives you what you need. - Naval Ravikant
+The man who asks a question is a fool for a minute, the man who does not ask is a fool for life. - Confucius
 <!--END_QUOTE-->
 
 ---
