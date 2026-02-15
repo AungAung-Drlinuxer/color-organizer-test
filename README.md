@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The man who asks a question is a fool for a minute, the man who does not ask is a fool for life. - Confucius
+You are not the drop in the ocean, but the ocean in the drop. - Deepak Chopra
 <!--END_QUOTE-->
 
 ---
