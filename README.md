@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-You are not the drop in the ocean, but the ocean in the drop. - Deepak Chopra
+The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings. - Henry Ward Beecher
 <!--END_QUOTE-->
 
 ---
