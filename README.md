@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings. - Henry Ward Beecher
+A moving door hinge never corrodes. Flowing water never grows stagnant. - Ming-Dao Deng
 <!--END_QUOTE-->
 
 ---
