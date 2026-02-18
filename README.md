@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-A moving door hinge never corrodes. Flowing water never grows stagnant. - Ming-Dao Deng
+I didn't get there by wishing for it or hoping for it, but by working for it. - Estee Lauder
 <!--END_QUOTE-->
 
 ---
