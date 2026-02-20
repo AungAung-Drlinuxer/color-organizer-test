@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-A hut full of laughter is richer than a palace full of sadness. - Zen Proverb
+People don't care how much you know until they know how much you care. - Theodore Roosevelt
 <!--END_QUOTE-->
 
 ---
