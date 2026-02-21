@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-People don't care how much you know until they know how much you care. - Theodore Roosevelt
+It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart. - Roy T. Bennett
 <!--END_QUOTE-->
 
 ---
