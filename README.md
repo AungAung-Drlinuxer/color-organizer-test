@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart. - Roy T. Bennett
+It is not what we get. But who we become, what we contribute... that gives meaning to our lives. - Tony Robbins
 <!--END_QUOTE-->
 
 ---
