@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-It is not what we get. But who we become, what we contribute... that gives meaning to our lives. - Tony Robbins
+Your past does not equal your future. - Tony Robbins
 <!--END_QUOTE-->
 
 ---
