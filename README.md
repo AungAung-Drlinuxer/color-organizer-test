@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Your past does not equal your future. - Tony Robbins
+You are now, and you do become, what you think about. - Earl Nightingale
 <!--END_QUOTE-->
 
 ---
