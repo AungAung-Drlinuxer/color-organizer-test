@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-You are now, and you do become, what you think about. - Earl Nightingale
+If you chase two rabbits, you catch none. - Confucius
 <!--END_QUOTE-->
 
 ---
