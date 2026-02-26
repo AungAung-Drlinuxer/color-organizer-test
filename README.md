@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-If you chase two rabbits, you catch none. - Confucius
+Ponder and deliberate before you make a move. - Sun Tzu
 <!--END_QUOTE-->
 
 ---
