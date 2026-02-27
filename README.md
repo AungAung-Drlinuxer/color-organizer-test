@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Ponder and deliberate before you make a move. - Sun Tzu
+Progress is impossible without change, and those who cannot change their minds cannot change anything. - George Bernard Shaw
 <!--END_QUOTE-->
 
 ---
