@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Progress is impossible without change, and those who cannot change their minds cannot change anything. - George Bernard Shaw
+People who have goals succeed because they know where they're going. It's that simple. - Earl Nightingale
 <!--END_QUOTE-->
 
 ---
