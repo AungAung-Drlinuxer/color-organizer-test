@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-People who have goals succeed because they know where they're going. It's that simple. - Earl Nightingale
+Peace is not absence of conflict, it is the ability to handle conflict by peaceful means. - Ronald Reagan
 <!--END_QUOTE-->
 
 ---
