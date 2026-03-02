@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Peace is not absence of conflict, it is the ability to handle conflict by peaceful means. - Ronald Reagan
+The more you give, the more comes back to you. - Napoleon Hill
 <!--END_QUOTE-->
 
 ---
