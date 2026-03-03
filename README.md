@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The more you give, the more comes back to you. - Napoleon Hill
+The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become. - Heraclitus
 <!--END_QUOTE-->
 
 ---
