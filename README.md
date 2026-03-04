@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become. - Heraclitus
+What the caterpillar calls the end of the world, the master calls a butterfly. - Richard Bach
 <!--END_QUOTE-->
 
 ---
