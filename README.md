@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-What the caterpillar calls the end of the world, the master calls a butterfly. - Richard Bach
+Unless a man is master of his soul, all other kinds of mastery amount to little. - Theodore Roosevelt
 <!--END_QUOTE-->
 
 ---
