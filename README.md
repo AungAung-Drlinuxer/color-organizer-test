@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Unless a man is master of his soul, all other kinds of mastery amount to little. - Theodore Roosevelt
+To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others. - Criss Jami
 <!--END_QUOTE-->
 
 ---
