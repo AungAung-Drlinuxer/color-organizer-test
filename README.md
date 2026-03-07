@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others. - Criss Jami
+You are never too old to set another goal or to dream a new dream. - Les Brown
 <!--END_QUOTE-->
 
 ---
