@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-You are never too old to set another goal or to dream a new dream. - Les Brown
+Find the game where you can win, and then commit your life to playing it; and play to win. - Robert Kiyosaki
 <!--END_QUOTE-->
 
 ---
