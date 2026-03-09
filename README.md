@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Find the game where you can win, and then commit your life to playing it; and play to win. - Robert Kiyosaki
+The person who is his own master cannot tolerate another boss.  - Chinese Proverb
 <!--END_QUOTE-->
 
 ---
