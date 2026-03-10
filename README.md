@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The person who is his own master cannot tolerate another boss.  - Chinese Proverb
+Don't live the same year 75 times and call it a life. - Robin Sharma
 <!--END_QUOTE-->
 
 ---
