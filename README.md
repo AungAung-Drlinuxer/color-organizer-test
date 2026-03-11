@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Don't live the same year 75 times and call it a life. - Robin Sharma
+Remember the entrance to the sanctuary is inside you. - Rumi
 <!--END_QUOTE-->
 
 ---
