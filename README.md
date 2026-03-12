@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Remember the entrance to the sanctuary is inside you. - Rumi
+A man is great not because he hasn't failed; a man is great because failure hasn't stopped him. - Confucius
 <!--END_QUOTE-->
 
 ---
