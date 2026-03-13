@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-A man is great not because he hasn't failed; a man is great because failure hasn't stopped him. - Confucius
+There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction. - G.I. Gurdjieff
 <!--END_QUOTE-->
 
 ---
