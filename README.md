@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction. - G.I. Gurdjieff
+You get in life what you have the courage to ask for. - Oprah Winfrey
 <!--END_QUOTE-->
 
 ---
