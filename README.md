@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-You get in life what you have the courage to ask for. - Oprah Winfrey
+Changing minds is harder than finding people who already agree. - Jack Butcher
 <!--END_QUOTE-->
 
 ---
