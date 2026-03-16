@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Changing minds is harder than finding people who already agree. - Jack Butcher
+You don't have to be great to start, but you have to start to be great.   - Zig Ziglar
 <!--END_QUOTE-->
 
 ---
