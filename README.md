@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-You don't have to be great to start, but you have to start to be great.   - Zig Ziglar
+Success is not final, failure is not fatal: it is the courage to continue that counts. - Winston Churchill
 <!--END_QUOTE-->
 
 ---
