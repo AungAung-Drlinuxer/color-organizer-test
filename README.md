@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Success is not final, failure is not fatal: it is the courage to continue that counts. - Winston Churchill
+Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have? - Eckhart Tolle
 <!--END_QUOTE-->
 
 ---
