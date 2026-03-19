@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have? - Eckhart Tolle
+Man is affected not by events but by the view he takes of them.   - Seneca
 <!--END_QUOTE-->
 
 ---
