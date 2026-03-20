@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Man is affected not by events but by the view he takes of them.   - Seneca
+The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible. - Josh Waitzkin
 <!--END_QUOTE-->
 
 ---
