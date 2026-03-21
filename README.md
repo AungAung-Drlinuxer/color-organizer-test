@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible. - Josh Waitzkin
+You make your own luck if you stay at it long enough. - Naval Ravikant
 <!--END_QUOTE-->
 
 ---
