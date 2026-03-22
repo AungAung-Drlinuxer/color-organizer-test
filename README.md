@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-You make your own luck if you stay at it long enough. - Naval Ravikant
+You will face many defeats in life, but never let yourself be defeated. - Maya Angelou
 <!--END_QUOTE-->
 
 ---
