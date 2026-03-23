@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-You will face many defeats in life, but never let yourself be defeated. - Maya Angelou
+Dream big and dare to fail. - Norman Vaughan
 <!--END_QUOTE-->
 
 ---
