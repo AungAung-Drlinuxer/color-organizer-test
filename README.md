@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Dream big and dare to fail. - Norman Vaughan
+Every limit is a beginning as well as an ending. - George Eliot
 <!--END_QUOTE-->
 
 ---
