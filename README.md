@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Every limit is a beginning as well as an ending. - George Eliot
+Success is an iceberg. - Unknown
 <!--END_QUOTE-->
 
 ---
