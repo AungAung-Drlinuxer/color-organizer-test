@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Success is an iceberg. - Unknown
+Confidence is like a dragon where, for every head cut off, two more heads grow back. - Criss Jami
 <!--END_QUOTE-->
 
 ---
