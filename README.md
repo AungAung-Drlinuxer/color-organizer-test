@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Confidence is like a dragon where, for every head cut off, two more heads grow back. - Criss Jami
+Death walks faster than the wind and never returns what he has taken. - Hans Christian Andersen
 <!--END_QUOTE-->
 
 ---
