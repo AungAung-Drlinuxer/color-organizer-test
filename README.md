@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Death walks faster than the wind and never returns what he has taken. - Hans Christian Andersen
+Things turn out best for the people who make the best of the way things turn out. - John Wooden
 <!--END_QUOTE-->
 
 ---
