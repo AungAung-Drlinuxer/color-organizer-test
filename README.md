@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Things turn out best for the people who make the best of the way things turn out. - John Wooden
+Don't give up the fight, Stand up for your rights. - Bob Marley
 <!--END_QUOTE-->
 
 ---
