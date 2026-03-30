@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Don't give up the fight, Stand up for your rights. - Bob Marley
+Fool me once, shame on you; fool me twice, shame on me.  - Chinese Proverb
 <!--END_QUOTE-->
 
 ---
