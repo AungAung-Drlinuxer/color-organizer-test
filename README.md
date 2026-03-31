@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Fool me once, shame on you; fool me twice, shame on me.  - Chinese Proverb
+Men do not attract which they want but that which they are. - James Allen
 <!--END_QUOTE-->
 
 ---
