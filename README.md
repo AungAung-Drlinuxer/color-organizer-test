@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-To be prepared is half the victory.  - Miguel de Cervantes
+A dream doesn't become reality through magic it takes sweat, determination and hard work. - Colin Powell
 <!--END_QUOTE-->
 
 ---
