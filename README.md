@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-A dream doesn't become reality through magic it takes sweat, determination and hard work. - Colin Powell
+You may delay, but time will not. - Benjamin Franklin
 <!--END_QUOTE-->
 
 ---
