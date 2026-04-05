@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-You may delay, but time will not. - Benjamin Franklin
+Inspiration exists, but it has to find you working. - Pablo Picasso
 <!--END_QUOTE-->
 
 ---
