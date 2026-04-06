@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Inspiration exists, but it has to find you working. - Pablo Picasso
+Question everything. Learn something. Answer nothing. - Euripides
 <!--END_QUOTE-->
 
 ---
