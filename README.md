@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Question everything. Learn something. Answer nothing. - Euripides
+Change yourself - you are in control. - Mahatma Gandhi
 <!--END_QUOTE-->
 
 ---
