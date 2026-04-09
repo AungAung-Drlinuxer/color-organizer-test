@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Change yourself - you are in control. - Mahatma Gandhi
+The only thing worse than being blind is having sight but no vision. - Helen Keller
 <!--END_QUOTE-->
 
 ---
