@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The only thing worse than being blind is having sight but no vision. - Helen Keller
+My sun sets to rise again. - Robert Browning
 <!--END_QUOTE-->
 
 ---
