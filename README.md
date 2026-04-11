@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-My sun sets to rise again. - Robert Browning
+It's very strange that the people you love are often the people you're most cruel to. - Kenneth Branagh
 <!--END_QUOTE-->
 
 ---
