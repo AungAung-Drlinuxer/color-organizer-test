@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-It's very strange that the people you love are often the people you're most cruel to. - Kenneth Branagh
+Don't spend time beating on a wall, hoping to transform it into a door. - Coco Chanel
 <!--END_QUOTE-->
 
 ---
