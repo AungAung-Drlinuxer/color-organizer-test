@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Don't spend time beating on a wall, hoping to transform it into a door. - Coco Chanel
+The merit of all things lies in their difficulty. - Alexandre Dumas
 <!--END_QUOTE-->
 
 ---
