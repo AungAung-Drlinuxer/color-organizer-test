@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The merit of all things lies in their difficulty. - Alexandre Dumas
+We can see through others only when we can see through ourselves. - Bruce Lee
 <!--END_QUOTE-->
 
 ---
