@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-In youth we run into difficulties. In old age difficulties run into us.  - Beverly Sills
+The few who do are the envy of the many who only watch. - Jim Rohn
 <!--END_QUOTE-->
 
 ---
