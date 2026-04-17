@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The few who do are the envy of the many who only watch. - Jim Rohn
+When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic.  - Charles Swindoll
 <!--END_QUOTE-->
 
 ---
