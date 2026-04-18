@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic.  - Charles Swindoll
+Trying to define yourself is like trying to bite your own teeth. - Zen Proverb
 <!--END_QUOTE-->
 
 ---
