@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Trying to define yourself is like trying to bite your own teeth. - Zen Proverb
+No one ever is defeated until defeat has been accepted as a reality. - Napoleon Hill
 <!--END_QUOTE-->
 
 ---
