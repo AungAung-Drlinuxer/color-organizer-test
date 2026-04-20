@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-No one ever is defeated until defeat has been accepted as a reality. - Napoleon Hill
+Rest and be kind, you don't have to prove anything. - Jack Kerouac
 <!--END_QUOTE-->
 
 ---
