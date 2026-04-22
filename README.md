@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you. - Dale Carnegie
+You are the average of the five people you spend the most time with. - Jim Rohn
 <!--END_QUOTE-->
 
 ---
