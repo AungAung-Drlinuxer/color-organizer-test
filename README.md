@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-You are the average of the five people you spend the most time with. - Jim Rohn
+Take time like the river that never grows stale. Keep going and steady. No hurry, no rush. - Rumi
 <!--END_QUOTE-->
 
 ---
