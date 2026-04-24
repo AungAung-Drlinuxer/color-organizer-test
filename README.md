@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Take time like the river that never grows stale. Keep going and steady. No hurry, no rush. - Rumi
+A different result requires doing something different. - Gary Keller
 <!--END_QUOTE-->
 
 ---
