@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-A different result requires doing something different. - Gary Keller
+Great things happen to those who don't stop believing, trying, learning, and being grateful. - Roy T. Bennett
 <!--END_QUOTE-->
 
 ---
