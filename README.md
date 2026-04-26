@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Great things happen to those who don't stop believing, trying, learning, and being grateful. - Roy T. Bennett
+A dream you dream alone is only a dream. A dream you dream together is reality. - Yoko Ono
 <!--END_QUOTE-->
 
 ---
