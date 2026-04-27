@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-A dream you dream alone is only a dream. A dream you dream together is reality. - Yoko Ono
+Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself. - William Faulkner
 <!--END_QUOTE-->
 
 ---
