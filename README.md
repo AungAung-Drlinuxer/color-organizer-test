@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself. - William Faulkner
+What would life be if we had no courage to attempt anything?  - Vincent van Gogh
 <!--END_QUOTE-->
 
 ---
