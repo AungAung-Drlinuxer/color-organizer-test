@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-What would life be if we had no courage to attempt anything?  - Vincent van Gogh
+Meditate. It won't be fun but it will surface what you need to deal with. - Naval Ravikant
 <!--END_QUOTE-->
 
 ---
