@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Meditate. It won't be fun but it will surface what you need to deal with. - Naval Ravikant
+It will never rain roses: when we want to have more roses, we must plant more roses. - George Eliot
 <!--END_QUOTE-->
 
 ---
