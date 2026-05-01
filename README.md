@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-It will never rain roses: when we want to have more roses, we must plant more roses. - George Eliot
+We're responsible for everything that happens to us. - Yanni
 <!--END_QUOTE-->
 
 ---
