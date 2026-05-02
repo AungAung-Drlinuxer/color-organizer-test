@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-We're responsible for everything that happens to us. - Yanni
+A crisis is an opportunity riding the dangerous wind. - Chinese Proverb
 <!--END_QUOTE-->
 
 ---
