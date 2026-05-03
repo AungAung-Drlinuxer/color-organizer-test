@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-A crisis is an opportunity riding the dangerous wind. - Chinese Proverb
+Every man is guilty of all the good he did not do.  - Voltaire
 <!--END_QUOTE-->
 
 ---
