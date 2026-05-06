@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-A moving door hinge never corrodes. Flowing water never grows stagnant. - Ming-Dao Deng
+A real friend is one who walks in when the rest of the world walks out. - Unknown
 <!--END_QUOTE-->
 
 ---
