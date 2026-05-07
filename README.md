@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-A real friend is one who walks in when the rest of the world walks out. - Unknown
+Tomorrow is only found in the calendar of fools. - Og Mandino
 <!--END_QUOTE-->
 
 ---
