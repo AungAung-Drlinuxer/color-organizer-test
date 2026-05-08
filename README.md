@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Tomorrow is only found in the calendar of fools. - Og Mandino
+Confidence is contagious. So is lack of confidence. - Vince Lombardi
 <!--END_QUOTE-->
 
 ---
