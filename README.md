@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Confidence is contagious. So is lack of confidence. - Vince Lombardi
+You are what you do, not what you say you'll do. - Carl Jung
 <!--END_QUOTE-->
 
 ---
