@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-You are what you do, not what you say you'll do. - Carl Jung
+When the time is gone, you can never get it back. - Stephen King
 <!--END_QUOTE-->
 
 ---
