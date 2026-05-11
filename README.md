@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-When the time is gone, you can never get it back. - Stephen King
+It does not matter how slowly you go so long as you do not stop. - Confucius
 <!--END_QUOTE-->
 
 ---
