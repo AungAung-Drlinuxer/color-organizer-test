@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-It does not matter how slowly you go so long as you do not stop. - Confucius
+The person who never made a mistake never tried anything new. - Albert Einstein
 <!--END_QUOTE-->
 
 ---
