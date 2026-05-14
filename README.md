@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The person who never made a mistake never tried anything new. - Albert Einstein
+We are willing to believe anything other than the truth. - Carlos Ruiz Zafon
 <!--END_QUOTE-->
 
 ---
