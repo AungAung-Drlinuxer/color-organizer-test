@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-We are willing to believe anything other than the truth. - Carlos Ruiz Zafon
+Learn from the rejection and turn it into an opportunity! - Mary Engelbreit
 <!--END_QUOTE-->
 
 ---
