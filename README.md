@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Learn from the rejection and turn it into an opportunity! - Mary Engelbreit
+The world is a puzzle; no need to make sense out of it. - Socrates
 <!--END_QUOTE-->
 
 ---
