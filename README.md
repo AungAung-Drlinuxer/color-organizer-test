@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The world is a puzzle; no need to make sense out of it. - Socrates
+A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing. - George Bernard Shaw
 <!--END_QUOTE-->
 
 ---
