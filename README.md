@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing. - George Bernard Shaw
+One loyal friend is worth ten thousand relatives. - Euripides
 <!--END_QUOTE-->
 
 ---
