@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-One loyal friend is worth ten thousand relatives. - Euripides
+Never lose hope. Storms make people stronger and never last forever. - Roy T. Bennett
 <!--END_QUOTE-->
 
 ---
