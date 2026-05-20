@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Never lose hope. Storms make people stronger and never last forever. - Roy T. Bennett
+Without the confidence, nothing can be accomplished. - Sathya Sai Baba
 <!--END_QUOTE-->
 
 ---
