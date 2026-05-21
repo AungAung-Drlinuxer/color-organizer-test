@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Without the confidence, nothing can be accomplished. - Sathya Sai Baba
+All leaders are readers. - Jim Rohn
 <!--END_QUOTE-->
 
 ---
