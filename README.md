@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-All leaders are readers. - Jim Rohn
+Learn the rules like a pro, so you can break them like an artist. - Pablo Picasso
 <!--END_QUOTE-->
 
 ---
