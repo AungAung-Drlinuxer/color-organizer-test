@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Learn the rules like a pro, so you can break them like an artist. - Pablo Picasso
+The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings. - Henry Ward Beecher
 <!--END_QUOTE-->
 
 ---
