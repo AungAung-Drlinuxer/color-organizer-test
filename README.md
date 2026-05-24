@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings. - Henry Ward Beecher
+A self that goes on changing is a self that goes on living. - Virginia Woolf
 <!--END_QUOTE-->
 
 ---
