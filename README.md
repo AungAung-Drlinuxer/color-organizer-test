@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-A self that goes on changing is a self that goes on living. - Virginia Woolf
+You can't wait for inspiration. You have to go after it with a club. - Jack London
 <!--END_QUOTE-->
 
 ---
