@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-You can't wait for inspiration. You have to go after it with a club. - Jack London
+It is often safer to be in chains than to be free. - Franz Kafka
 <!--END_QUOTE-->
 
 ---
