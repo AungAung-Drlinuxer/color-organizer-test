@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-It is often safer to be in chains than to be free. - Franz Kafka
+Conquer the devils with a little thing called love. - Bob Marley
 <!--END_QUOTE-->
 
 ---
