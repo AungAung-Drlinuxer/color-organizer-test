@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Conquer the devils with a little thing called love. - Bob Marley
+Keep your face always toward the sunshine -  shadows will fall behind you. - Walt Whitman
 <!--END_QUOTE-->
 
 ---
