@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Keep your face always toward the sunshine -  shadows will fall behind you. - Walt Whitman
+All human beings can alter their lives by altering their attitudes. - Andrew Carnegie
 <!--END_QUOTE-->
 
 ---
