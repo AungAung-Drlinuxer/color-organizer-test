@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-All human beings can alter their lives by altering their attitudes. - Andrew Carnegie
+I will not walk backward in life. - J.R.R. Tolkien
 <!--END_QUOTE-->
 
 ---
