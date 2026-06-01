@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Why live an ordinary life, when you can live an extraordinary one. - Tony Robbins
+Don't look back - you're not going that way. - Mary Engelbreit
 <!--END_QUOTE-->
 
 ---
