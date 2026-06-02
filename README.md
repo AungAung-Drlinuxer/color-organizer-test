@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Don't look back - you're not going that way. - Mary Engelbreit
+If I persist long enough I will win. - Og Mandino
 <!--END_QUOTE-->
 
 ---
