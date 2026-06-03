@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-If I persist long enough I will win. - Og Mandino
+Fool me once, shame on you; fool me twice, shame on me. - Chinese Proverb
 <!--END_QUOTE-->
 
 ---
