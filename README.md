@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Fool me once, shame on you; fool me twice, shame on me. - Chinese Proverb
+All human wisdom is contained in these two words - Wait and Hope - Alexandre Dumas
 <!--END_QUOTE-->
 
 ---
