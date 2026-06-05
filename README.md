@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-All human wisdom is contained in these two words - Wait and Hope - Alexandre Dumas
+In order to control myself I must first accept myself by going with and not against my nature. - Bruce Lee
 <!--END_QUOTE-->
 
 ---
