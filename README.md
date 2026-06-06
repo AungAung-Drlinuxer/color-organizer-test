@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-In order to control myself I must first accept myself by going with and not against my nature. - Bruce Lee
+The man who removes a mountain begins by carrying away small stones. - William Faulkner
 <!--END_QUOTE-->
 
 ---
