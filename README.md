@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The man who removes a mountain begins by carrying away small stones. - William Faulkner
+When you stop questioning, you stop learning. - Lolly Daskal
 <!--END_QUOTE-->
 
 ---
