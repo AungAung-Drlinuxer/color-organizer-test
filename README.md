@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-When you stop questioning, you stop learning. - Lolly Daskal
+It takes real work to grasp what is invisible to just about everyone else. - Ryan Holiday
 <!--END_QUOTE-->
 
 ---
