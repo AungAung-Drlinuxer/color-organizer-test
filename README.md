@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-It takes real work to grasp what is invisible to just about everyone else. - Ryan Holiday
+The greatest weariness comes from work not done. - Eric Hoffer
 <!--END_QUOTE-->
 
 ---
