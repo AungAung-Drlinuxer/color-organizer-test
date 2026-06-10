@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The greatest weariness comes from work not done. - Eric Hoffer
+Focus on the moment, not the monsters that may or may not be up ahead. - Ryan Holiday
 <!--END_QUOTE-->
 
 ---
