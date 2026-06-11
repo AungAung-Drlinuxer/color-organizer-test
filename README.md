@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Focus on the moment, not the monsters that may or may not be up ahead. - Ryan Holiday
+Turn off your mind, relax, and float downstream. - John Lennon
 <!--END_QUOTE-->
 
 ---
