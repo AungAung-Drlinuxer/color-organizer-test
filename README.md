@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Turn off your mind, relax, and float downstream. - John Lennon
+Believe nothing you hear, and only one half that you see. - Edgar Allan Poe
 <!--END_QUOTE-->
 
 ---
