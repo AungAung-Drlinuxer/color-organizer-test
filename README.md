@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Believe nothing you hear, and only one half that you see. - Edgar Allan Poe
+The road to success is always under construction.. - Lily Tomlin
 <!--END_QUOTE-->
 
 ---
