@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The road to success is always under construction.. - Lily Tomlin
+To be in harmony with the wholeness of things is not to have anxiety over imperfections. - Dogen
 <!--END_QUOTE-->
 
 ---
