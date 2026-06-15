@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-To be in harmony with the wholeness of things is not to have anxiety over imperfections. - Dogen
+Before you can see the Light, you have to deal with the darkness. - Dan Millman
 <!--END_QUOTE-->
 
 ---
