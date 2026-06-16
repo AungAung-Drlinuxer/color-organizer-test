@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Before you can see the Light, you have to deal with the darkness. - Dan Millman
+There are no shortcuts to any place worth going. - Beverly Sills
 <!--END_QUOTE-->
 
 ---
