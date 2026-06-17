@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-There are no shortcuts to any place worth going. - Beverly Sills
+Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win. - Sun Tzu
 <!--END_QUOTE-->
 
 ---
