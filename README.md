@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win. - Sun Tzu
+Judgments prevent us from seeing the good that lies beyond appearances. - Wayne Dyer
 <!--END_QUOTE-->
 
 ---
