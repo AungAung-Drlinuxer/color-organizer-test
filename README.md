@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Judgments prevent us from seeing the good that lies beyond appearances. - Wayne Dyer
+Our greatest glory is not in never falling but in rising every time we fall. - Confucius
 <!--END_QUOTE-->
 
 ---
