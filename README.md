@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Our greatest glory is not in never falling but in rising every time we fall. - Confucius
+Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it. - Celestine Chua
 <!--END_QUOTE-->
 
 ---
