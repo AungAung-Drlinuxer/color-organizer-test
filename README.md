@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it. - Celestine Chua
+Make your stand today. On this spot. On this day. - Ming-Dao Deng
 <!--END_QUOTE-->
 
 ---
