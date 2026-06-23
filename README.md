@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Make your stand today. On this spot. On this day. - Ming-Dao Deng
+The less people know, the more stubbornly they know it. - Osho
 <!--END_QUOTE-->
 
 ---
