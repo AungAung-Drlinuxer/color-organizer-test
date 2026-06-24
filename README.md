@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The less people know, the more stubbornly they know it. - Osho
+Friends ask you questions; enemies question you. - Criss Jami
 <!--END_QUOTE-->
 
 ---
