@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Friends ask you questions; enemies question you. - Criss Jami
+There is nothing more truly artistic than to love people. - Vincent van Gogh
 <!--END_QUOTE-->
 
 ---
