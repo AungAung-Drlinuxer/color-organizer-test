@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-There is nothing more truly artistic than to love people. - Vincent van Gogh
+Strategy is a commodity, execution is an art. - Peter Drucker
 <!--END_QUOTE-->
 
 ---
