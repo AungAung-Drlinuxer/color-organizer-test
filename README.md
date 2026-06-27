@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Strategy is a commodity, execution is an art. - Peter Drucker
+The biggest room in the world is the room for improvement. - Unknown
 <!--END_QUOTE-->
 
 ---
