@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The biggest room in the world is the room for improvement. - Unknown
+Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life. - Eleanor Roosevelt
 <!--END_QUOTE-->
 
 ---
