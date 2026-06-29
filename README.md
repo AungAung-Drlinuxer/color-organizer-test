@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life. - Eleanor Roosevelt
+Work harder on yourself than you do on your job. - Jim Rohn
 <!--END_QUOTE-->
 
 ---
