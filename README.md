@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Work harder on yourself than you do on your job. - Jim Rohn
+Dreams are the royal road to the unconscious. - Sigmund Freud
 <!--END_QUOTE-->
 
 ---
