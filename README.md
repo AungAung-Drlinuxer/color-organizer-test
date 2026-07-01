@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Dreams are the royal road to the unconscious. - Sigmund Freud
+Change is not a four letter word...but often your reaction to it is! - Jeffrey Gitomer
 <!--END_QUOTE-->
 
 ---
