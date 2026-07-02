@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Change is not a four letter word...but often your reaction to it is! - Jeffrey Gitomer
+Difficulties strengthen the mind, as labor does the body. - Seneca
 <!--END_QUOTE-->
 
 ---
