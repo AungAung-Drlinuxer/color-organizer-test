@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Difficulties strengthen the mind, as labor does the body. - Seneca
+You live by what you thrill to, and there's the end of it. - D. H. Lawrence
 <!--END_QUOTE-->
 
 ---
