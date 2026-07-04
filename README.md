@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-You live by what you thrill to, and there's the end of it. - D. H. Lawrence
+She who loves roses must be patient and not cry out when she is pierced by thorns. - Kenji Miyazawa
 <!--END_QUOTE-->
 
 ---
