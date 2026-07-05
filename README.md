@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-She who loves roses must be patient and not cry out when she is pierced by thorns. - Kenji Miyazawa
+Human behavior flows from three main sources: desire, emotion, and knowledge. - Plato
 <!--END_QUOTE-->
 
 ---
