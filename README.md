@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Human behavior flows from three main sources: desire, emotion, and knowledge. - Plato
+Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose. - Simon Sinek
 <!--END_QUOTE-->
 
 ---
