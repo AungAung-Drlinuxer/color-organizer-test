@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose. - Simon Sinek
+Any game becomes important when you know and love the players. - W.P. Kinsella
 <!--END_QUOTE-->
 
 ---
