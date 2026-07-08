@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Any game becomes important when you know and love the players. - W.P. Kinsella
+Show me a hero, and I'll write you a tragedy. - F. Scott Fitzgerald
 <!--END_QUOTE-->
 
 ---
