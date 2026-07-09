@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Show me a hero, and I'll write you a tragedy. - F. Scott Fitzgerald
+The older you get, the more you understand how your conscience works. - Criss Jami
 <!--END_QUOTE-->
 
 ---
