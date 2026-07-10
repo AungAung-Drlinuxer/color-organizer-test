@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The older you get, the more you understand how your conscience works. - Criss Jami
+Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence? - Sathya Sai Baba
 <!--END_QUOTE-->
 
 ---
