@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence? - Sathya Sai Baba
+When you want to be honored by others, you learn to honor them first. - Sathya Sai Baba
 <!--END_QUOTE-->
 
 ---
