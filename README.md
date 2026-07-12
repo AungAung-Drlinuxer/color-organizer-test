@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-When you want to be honored by others, you learn to honor them first. - Sathya Sai Baba
+Once you choose hope, anything's possible. - Christopher Reeve
 <!--END_QUOTE-->
 
 ---
