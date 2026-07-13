@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Once you choose hope, anything's possible. - Christopher Reeve
+To avoid criticism, do nothing, say nothing, and be nothing. - Elbert Hubbard
 <!--END_QUOTE-->
 
 ---
