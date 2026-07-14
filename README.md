@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-To avoid criticism, do nothing, say nothing, and be nothing. - Elbert Hubbard
+Best be yourself, imperial, plain, and true. - Robert Browning
 <!--END_QUOTE-->
 
 ---
