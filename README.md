@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Best be yourself, imperial, plain, and true. - Robert Browning
+If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear. - Jon Kabat-Zinn
 <!--END_QUOTE-->
 
 ---
