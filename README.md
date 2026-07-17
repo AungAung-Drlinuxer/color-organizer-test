@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-No man is happy unless he believes he is. - Publilius Syrus
+Is it really possible to tell someone else what one feels? - Leo Tolstoy
 <!--END_QUOTE-->
 
 ---
