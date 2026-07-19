@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road. - Henry Ward Beecher
+To love means loving the unlovable. - Gilbert Chesterton
 <!--END_QUOTE-->
 
 ---
