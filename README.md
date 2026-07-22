@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Be happy in the moment, that's enough. Each moment is all we need, not more. - Mother Teresa
+No man is happy who does not think himself so. - Norman Vincent Peale
 <!--END_QUOTE-->
 
 ---
