@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-No man is happy who does not think himself so. - Norman Vincent Peale
+You are not what you think you are, You are not what others think you are, You are what you think others think you are. - Unknown
 <!--END_QUOTE-->
 
 ---
