@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-You are not what you think you are, You are not what others think you are, You are what you think others think you are. - Unknown
+The most important things are the hardest to say. - Stephen King
 <!--END_QUOTE-->
 
 ---
