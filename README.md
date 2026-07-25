@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The most important things are the hardest to say. - Stephen King
+If the plan doesn't work, change the plan, but never the goal. - Unknown
 <!--END_QUOTE-->
 
 ---
