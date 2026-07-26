@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-If the plan doesn't work, change the plan, but never the goal. - Unknown
+Good entrepreneurs don't fail because they stay at it. - Naval Ravikant
 <!--END_QUOTE-->
 
 ---
