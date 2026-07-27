@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Good entrepreneurs don't fail because they stay at it. - Naval Ravikant
+Decide upon your major definite purpose in life and then organize all your activities around it. - Brian Tracy
 <!--END_QUOTE-->
 
 ---
