@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Decide upon your major definite purpose in life and then organize all your activities around it. - Brian Tracy
+We must have strong minds, ready to accept facts as they are. - Harry S. Truman
 <!--END_QUOTE-->
 
 ---
