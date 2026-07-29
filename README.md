@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-We must have strong minds, ready to accept facts as they are. - Harry S. Truman
+The key to success is failure. - Michael Jordan
 <!--END_QUOTE-->
 
 ---
