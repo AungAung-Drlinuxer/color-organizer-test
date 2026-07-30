@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The key to success is failure. - Michael Jordan
+Saying nothing sometimes says the most. - Emily Dickinson
 <!--END_QUOTE-->
 
 ---
