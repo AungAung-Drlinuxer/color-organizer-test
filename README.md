@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Saying nothing sometimes says the most. - Emily Dickinson
+Opportunity comes when you continually push forward. - Sonia Ricotti
 <!--END_QUOTE-->
 
 ---
