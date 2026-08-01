@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Opportunity comes when you continually push forward. - Sonia Ricotti
+Success is an iceberg. - Unknown
 <!--END_QUOTE-->
 
 ---
