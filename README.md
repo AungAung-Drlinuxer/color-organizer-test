@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Success is an iceberg. - Unknown
+Until we can manage time, we can manage nothing else. - Peter Drucker
 <!--END_QUOTE-->
 
 ---
