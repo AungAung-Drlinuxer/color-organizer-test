@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Until we can manage time, we can manage nothing else. - Peter Drucker
+Deliberately seek the company of people who influence you to think and act on building the life you desire. - Napoleon Hill
 <!--END_QUOTE-->
 
 ---
