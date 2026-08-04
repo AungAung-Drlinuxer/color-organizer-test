@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Deliberately seek the company of people who influence you to think and act on building the life you desire. - Napoleon Hill
+One day, in retrospect, the years of struggle will strike you as the most beautiful. - Sigmund Freud
 <!--END_QUOTE-->
 
 ---
