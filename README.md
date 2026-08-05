@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-One day, in retrospect, the years of struggle will strike you as the most beautiful. - Sigmund Freud
+If you set your goals ridiculously high and its a failure, you will fail above everyone elses success. - James Cameron
 <!--END_QUOTE-->
 
 ---
