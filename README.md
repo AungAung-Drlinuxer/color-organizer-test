@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-If you set your goals ridiculously high and its a failure, you will fail above everyone elses success. - James Cameron
+Attitude drives actions. Actions drive results. Results drive lifestyles. - Jim Rohn
 <!--END_QUOTE-->
 
 ---
