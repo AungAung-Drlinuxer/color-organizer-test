@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Attitude drives actions. Actions drive results. Results drive lifestyles. - Jim Rohn
+Education breeds confidence. Confidence breeds hope. Hope breeds peace. - Confucius
 <!--END_QUOTE-->
 
 ---
