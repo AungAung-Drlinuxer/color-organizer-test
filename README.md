@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Education breeds confidence. Confidence breeds hope. Hope breeds peace. - Confucius
+Give me six hours to chop down a tree and I will spend the first four sharpening the axe. - Abraham Lincoln
 <!--END_QUOTE-->
 
 ---
