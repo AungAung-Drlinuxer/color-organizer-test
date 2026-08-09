@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Give me six hours to chop down a tree and I will spend the first four sharpening the axe. - Abraham Lincoln
+Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver. - Ayn Rand
 <!--END_QUOTE-->
 
 ---
