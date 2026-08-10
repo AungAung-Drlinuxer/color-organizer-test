@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver. - Ayn Rand
+If you're not failing every now and again, it's a sign you're not doing anything very innovative. - Woody Allen
 <!--END_QUOTE-->
 
 ---
