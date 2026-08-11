@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-If you're not failing every now and again, it's a sign you're not doing anything very innovative. - Woody Allen
+It all depends on what you choose to believe. - Spencer Johnson
 <!--END_QUOTE-->
 
 ---
