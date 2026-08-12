@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-It all depends on what you choose to believe. - Spencer Johnson
+One beam, no matter how big, cannot support an entire house on its own. - Chinese Proverb
 <!--END_QUOTE-->
 
 ---
