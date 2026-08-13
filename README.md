@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-One beam, no matter how big, cannot support an entire house on its own. - Chinese Proverb
+The smallest of actions is always better than the noblest of intentions. - Robin Sharma
 <!--END_QUOTE-->
 
 ---
