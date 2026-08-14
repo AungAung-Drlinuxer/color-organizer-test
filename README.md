@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The smallest of actions is always better than the noblest of intentions. - Robin Sharma
+If we did all the things we are capable of, we would literally astound ourselves. - Thomas Edison
 <!--END_QUOTE-->
 
 ---
