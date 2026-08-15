@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-If we did all the things we are capable of, we would literally astound ourselves. - Thomas Edison
+Never buy a thing you do not want, because it is cheap, it will be dear to you. - Thomas Jefferson
 <!--END_QUOTE-->
 
 ---
