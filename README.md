@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Never buy a thing you do not want, because it is cheap, it will be dear to you. - Thomas Jefferson
+Appear weak when you are strong, and strong when you are weak. - Sun Tzu
 <!--END_QUOTE-->
 
 ---
