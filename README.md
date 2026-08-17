@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Appear weak when you are strong, and strong when you are weak. - Sun Tzu
+It's your outlook on life that counts. - Betty White
 <!--END_QUOTE-->
 
 ---
