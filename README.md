@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-It's your outlook on life that counts. - Betty White
+The secret of life is to fall seven times and to get up eight times. - Paulo Coelho
 <!--END_QUOTE-->
 
 ---
