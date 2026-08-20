@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Muddy water is best cleared by leaving it alone. - Alan Watts
+When people are free to do as they please, they usually imitate each other. - Eric Hoffer
 <!--END_QUOTE-->
 
 ---
