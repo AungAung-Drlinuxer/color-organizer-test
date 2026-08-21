@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-When people are free to do as they please, they usually imitate each other. - Eric Hoffer
+Those who can make you believe absurdities can make you commit atrocities. - Voltaire
 <!--END_QUOTE-->
 
 ---
