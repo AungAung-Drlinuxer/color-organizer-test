@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Those who can make you believe absurdities can make you commit atrocities. - Voltaire
+Courage is found in unlikely places. - J.R.R. Tolkien
 <!--END_QUOTE-->
 
 ---
