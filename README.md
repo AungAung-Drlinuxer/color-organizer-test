@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Courage is found in unlikely places. - J.R.R. Tolkien
+Don't change your mind just because people are offended; change your mind if you're wrong. - Criss Jami
 <!--END_QUOTE-->
 
 ---
