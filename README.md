@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Don't change your mind just because people are offended; change your mind if you're wrong. - Criss Jami
+He who violates another's honor loses his own. - Publilius Syrus
 <!--END_QUOTE-->
 
 ---
