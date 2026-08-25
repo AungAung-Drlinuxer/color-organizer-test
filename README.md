@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-He who violates another's honor loses his own. - Publilius Syrus
+It is the power of thought that gives man power over nature. - Hans Christian Andersen
 <!--END_QUOTE-->
 
 ---
