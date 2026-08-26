@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-It is the power of thought that gives man power over nature. - Hans Christian Andersen
+Never do things others can do and will do if there are things others cannot do or will not do. - Amelia Earhart
 <!--END_QUOTE-->
 
 ---
