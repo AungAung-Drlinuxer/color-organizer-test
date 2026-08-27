@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Never do things others can do and will do if there are things others cannot do or will not do. - Amelia Earhart
+How to get more opportunity: Create more opportunity for others. - Jack Butcher
 <!--END_QUOTE-->
 
 ---
