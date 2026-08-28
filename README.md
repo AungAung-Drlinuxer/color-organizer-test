@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-How to get more opportunity: Create more opportunity for others. - Jack Butcher
+There is only one thing that makes a dream impossible to achieve: the fear of failure. - Paulo Coelho
 <!--END_QUOTE-->
 
 ---
