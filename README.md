@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-There is only one thing that makes a dream impossible to achieve: the fear of failure. - Paulo Coelho
+Do not go where the path may lead, go instead where there is no path and leave a trail. - Ralph Waldo Emerson
 <!--END_QUOTE-->
 
 ---
