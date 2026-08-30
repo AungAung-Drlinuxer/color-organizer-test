@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Do not go where the path may lead, go instead where there is no path and leave a trail. - Ralph Waldo Emerson
+There are no second chances in life, except to feel remorse. - Carlos Ruiz Zafon
 <!--END_QUOTE-->
 
 ---
