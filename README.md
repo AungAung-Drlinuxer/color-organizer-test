@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-There are no second chances in life, except to feel remorse. - Carlos Ruiz Zafon
+A moving door hinge never corrodes. Flowing water never grows stagnant. - Ming-Dao Deng
 <!--END_QUOTE-->
 
 ---
