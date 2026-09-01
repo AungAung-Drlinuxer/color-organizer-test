@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-A moving door hinge never corrodes. Flowing water never grows stagnant. - Ming-Dao Deng
+Many people spend more time looking at their failures than focusing on their successes. - Lolly Daskal
 <!--END_QUOTE-->
 
 ---
