@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-We are all in the gutter, but some of us are looking at the stars. - Oscar Wilde
+A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road. - Henry Ward Beecher
 <!--END_QUOTE-->
 
 ---
