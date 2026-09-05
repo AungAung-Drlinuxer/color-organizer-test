@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-It is the nature of the wise to resist pleasures, but the foolish to be a slave to them. - Epictetus
+Know your gifts and share them. - Les Brown
 <!--END_QUOTE-->
 
 ---
