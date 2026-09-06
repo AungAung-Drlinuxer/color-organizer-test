@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Know your gifts and share them. - Les Brown
+Those who realize their folly are not true fools. - Zhuangzi
 <!--END_QUOTE-->
 
 ---
