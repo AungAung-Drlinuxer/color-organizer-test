@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Those who realize their folly are not true fools. - Zhuangzi
+Not engaging in ignorance is wisdom. - Bodhidharma
 <!--END_QUOTE-->
 
 ---
