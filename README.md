@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Not engaging in ignorance is wisdom. - Bodhidharma
+The greatest of empires, is the empire over one's self. - Publilius Syrus
 <!--END_QUOTE-->
 
 ---
