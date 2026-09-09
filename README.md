@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The greatest of empires, is the empire over one's self. - Publilius Syrus
+Continuous effort - not strength or intelligence - is the key to unlocking our potential. - Winston Churchill
 <!--END_QUOTE-->
 
 ---
