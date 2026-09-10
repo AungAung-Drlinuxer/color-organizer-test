@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Continuous effort - not strength or intelligence - is the key to unlocking our potential. - Winston Churchill
+Nothing has more strength than dire necessity. - Euripides
 <!--END_QUOTE-->
 
 ---
