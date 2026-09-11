@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Nothing has more strength than dire necessity. - Euripides
+Wealth is the product of man's capacity to think. - Ayn Rand
 <!--END_QUOTE-->
 
 ---
