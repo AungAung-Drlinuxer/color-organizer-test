@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Wealth is the product of man's capacity to think. - Ayn Rand
+Love is merely the name for the desire and pursuit of the whole. - Aristophanes
 <!--END_QUOTE-->
 
 ---
