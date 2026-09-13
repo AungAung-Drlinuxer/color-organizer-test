@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Love is merely the name for the desire and pursuit of the whole. - Aristophanes
+Each day provides it's own gifts. - Marcus Aurelius
 <!--END_QUOTE-->
 
 ---
