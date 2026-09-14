@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Each day provides it's own gifts. - Marcus Aurelius
+The more we value things, the less we value ourselves. - Bruce Lee
 <!--END_QUOTE-->
 
 ---
