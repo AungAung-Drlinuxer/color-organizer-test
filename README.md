@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The more we value things, the less we value ourselves. - Bruce Lee
+Failure is a prerequisite for great success. If you want success faster, double your rate of failure. - Brian Tracy
 <!--END_QUOTE-->
 
 ---
