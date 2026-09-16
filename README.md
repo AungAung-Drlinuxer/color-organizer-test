@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Failure is a prerequisite for great success. If you want success faster, double your rate of failure. - Brian Tracy
+When you are tough on yourself, life is going to be infinitely easier on you. - Zig Ziglar
 <!--END_QUOTE-->
 
 ---
