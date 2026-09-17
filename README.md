@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-When you are tough on yourself, life is going to be infinitely easier on you. - Zig Ziglar
+Don't let the noise of others opinions drown out your inner voice. - Steve Jobs
 <!--END_QUOTE-->
 
 ---
