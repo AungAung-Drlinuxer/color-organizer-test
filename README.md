@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Don't let the noise of others opinions drown out your inner voice. - Steve Jobs
+Some people are old at 18 and some are young at 90. Time is a concept that humans created. - Yoko Ono
 <!--END_QUOTE-->
 
 ---
