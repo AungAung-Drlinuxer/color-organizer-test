@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Some people are old at 18 and some are young at 90. Time is a concept that humans created. - Yoko Ono
+What is a friend? A single soul dwelling in two bodies. - Aristotle
 <!--END_QUOTE-->
 
 ---
