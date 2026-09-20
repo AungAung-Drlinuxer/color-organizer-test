@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-What is a friend? A single soul dwelling in two bodies. - Aristotle
+Your only obligation in any lifetime is to be true to yourself. - Richard Bach
 <!--END_QUOTE-->
 
 ---
