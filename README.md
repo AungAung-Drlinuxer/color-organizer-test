@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Your only obligation in any lifetime is to be true to yourself. - Richard Bach
+It is well known that those who do not trust themselves never trust others. - Alfred Adler
 <!--END_QUOTE-->
 
 ---
