@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-It is well known that those who do not trust themselves never trust others. - Alfred Adler
+The strongest and sweetest songs yet remain to be sung. - Walt Whitman
 <!--END_QUOTE-->
 
 ---
