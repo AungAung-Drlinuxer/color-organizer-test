@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The strongest and sweetest songs yet remain to be sung. - Walt Whitman
+You can't wait for inspiration. You have to go after it with a club. - Jack London
 <!--END_QUOTE-->
 
 ---
