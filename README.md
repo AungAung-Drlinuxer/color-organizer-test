@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-You can't wait for inspiration. You have to go after it with a club. - Jack London
+Nothing like a health problem to turn up the contrast dial for the rest of life. - Naval Ravikant
 <!--END_QUOTE-->
 
 ---
