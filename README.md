@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Nothing like a health problem to turn up the contrast dial for the rest of life. - Naval Ravikant
+A man who dares to waste one hour of time has not discovered the value of life. - Charles Darwin
 <!--END_QUOTE-->
 
 ---
