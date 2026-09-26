@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-A man who dares to waste one hour of time has not discovered the value of life. - Charles Darwin
+Ideas do not reach perfection in a day, no matter how much study is put upon them. - Alexander Graham Bell
 <!--END_QUOTE-->
 
 ---
