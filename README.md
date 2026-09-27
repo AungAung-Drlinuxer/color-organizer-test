@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Ideas do not reach perfection in a day, no matter how much study is put upon them. - Alexander Graham Bell
+Our life isn't how much we can take out, but how much we can put in. - Estee Lauder
 <!--END_QUOTE-->
 
 ---
