@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Our life isn't how much we can take out, but how much we can put in. - Estee Lauder
+The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities. - Charles Dickens
 <!--END_QUOTE-->
 
 ---
