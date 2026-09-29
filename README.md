@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities. - Charles Dickens
+Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry. - Celestine Chua
 <!--END_QUOTE-->
 
 ---
