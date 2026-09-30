@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry. - Celestine Chua
+In spite of everything, I shall rise again. - Vincent van Gogh
 <!--END_QUOTE-->
 
 ---
