@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-In spite of everything, I shall rise again. - Vincent van Gogh
+Our greatest glory is not in never falling, but in rising every time we fall. - Confucius
 <!--END_QUOTE-->
 
 ---
