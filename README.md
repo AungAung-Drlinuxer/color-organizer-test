@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Our greatest glory is not in never falling, but in rising every time we fall. - Confucius
+Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver. - Ayn Rand
 <!--END_QUOTE-->
 
 ---
