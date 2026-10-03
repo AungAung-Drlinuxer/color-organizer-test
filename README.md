@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver. - Ayn Rand
+Deliberately seek the company of people who influence you to think and act on building the life you desire. - Napoleon Hill
 <!--END_QUOTE-->
 
 ---
