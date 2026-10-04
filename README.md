@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Deliberately seek the company of people who influence you to think and act on building the life you desire. - Napoleon Hill
+If you want others to be happy, practice compassion. If you want to be happy, practice compassion. - Dalai Lama
 <!--END_QUOTE-->
 
 ---
