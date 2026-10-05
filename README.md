@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-If you want others to be happy, practice compassion. If you want to be happy, practice compassion. - Dalai Lama
+Evil is whatever distracts. - Franz Kafka
 <!--END_QUOTE-->
 
 ---
