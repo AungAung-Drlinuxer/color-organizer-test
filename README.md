@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Evil is whatever distracts. - Franz Kafka
+You just can't beat the person who never gives up. - Babe Ruth
 <!--END_QUOTE-->
 
 ---
