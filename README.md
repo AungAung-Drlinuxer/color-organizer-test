@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The ones who are crazy enough to think they can change the world, are the ones that do. - Steve Jobs
+You are your best thing. - Toni Morrison
 <!--END_QUOTE-->
 
 ---
