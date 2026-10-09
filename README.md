@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-You are your best thing. - Toni Morrison
+Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries. - Amelia Earhart
 <!--END_QUOTE-->
 
 ---
