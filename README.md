@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries. - Amelia Earhart
+By seeking and blundering we learn. - Johann Wolfgang von Goethe
 <!--END_QUOTE-->
 
 ---
