@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-It is the power of thought that gives man power over nature. - Hans Christian Andersen
+The constant assertion of belief is an indication of fear. - Jiddu Krishnamurti
 <!--END_QUOTE-->
 
 ---
