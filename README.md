@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The constant assertion of belief is an indication of fear. - Jiddu Krishnamurti
+When you want to be honored by others, you learn to honor them first. - Sathya Sai Baba
 <!--END_QUOTE-->
 
 ---
