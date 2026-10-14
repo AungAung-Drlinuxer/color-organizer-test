@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-When you want to be honored by others, you learn to honor them first. - Sathya Sai Baba
+When you win, say nothing, when you lose say less. - Wayne Gretzky
 <!--END_QUOTE-->
 
 ---
