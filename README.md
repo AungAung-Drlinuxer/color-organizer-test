@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-When you win, say nothing, when you lose say less. - Wayne Gretzky
+Being ignorant is not so much a shame, as being unwilling to learn. - Benjamin Franklin
 <!--END_QUOTE-->
 
 ---
