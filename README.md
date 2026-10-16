@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Being ignorant is not so much a shame, as being unwilling to learn. - Benjamin Franklin
+Life becomes easier and more beautiful when we can see the good in other people. - Roy T. Bennett
 <!--END_QUOTE-->
 
 ---
