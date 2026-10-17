@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Life becomes easier and more beautiful when we can see the good in other people. - Roy T. Bennett
+A day without laughter is a day wasted. - Charlie Chaplin
 <!--END_QUOTE-->
 
 ---
