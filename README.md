@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-A day without laughter is a day wasted. - Charlie Chaplin
+It is far easier to start something than it is to finish it. - Amelia Earhart
 <!--END_QUOTE-->
 
 ---
