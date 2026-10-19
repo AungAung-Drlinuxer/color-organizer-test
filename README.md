@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-It is far easier to start something than it is to finish it. - Amelia Earhart
+Formal education will make you a living, self-education will make you a fortune. - Jim Rohn
 <!--END_QUOTE-->
 
 ---
