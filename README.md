@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Formal education will make you a living, self-education will make you a fortune. - Jim Rohn
+Life and death are of supreme importance. Time swiftly passes by and opportunity is lost. - Dogen
 <!--END_QUOTE-->
 
 ---
