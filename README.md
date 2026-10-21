@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Life and death are of supreme importance. Time swiftly passes by and opportunity is lost. - Dogen
+Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble. - Robert Greene
 <!--END_QUOTE-->
 
 ---
