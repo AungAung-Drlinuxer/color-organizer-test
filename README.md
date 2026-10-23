@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Life is a long lesson in humility. - James Matthew Barrie
+Instead of worrying about what you cannot control, shift your energy to what you can create. - Roy T. Bennett
 <!--END_QUOTE-->
 
 ---
