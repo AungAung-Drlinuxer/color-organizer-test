@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Instead of worrying about what you cannot control, shift your energy to what you can create. - Roy T. Bennett
+The shoe that fits one person pinches another; there is no recipe for living that suits all cases. - Carl Jung
 <!--END_QUOTE-->
 
 ---
