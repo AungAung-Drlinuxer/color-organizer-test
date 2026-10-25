@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The shoe that fits one person pinches another; there is no recipe for living that suits all cases. - Carl Jung
+Closing your eyes and listening to silence is self-care. - Maxime Lagace
 <!--END_QUOTE-->
 
 ---
