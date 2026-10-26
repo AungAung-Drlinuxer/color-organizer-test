@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Closing your eyes and listening to silence is self-care. - Maxime Lagace
+Even the smallest task is hard to accomplish without effort. - Tibetan Proverb
 <!--END_QUOTE-->
 
 ---
