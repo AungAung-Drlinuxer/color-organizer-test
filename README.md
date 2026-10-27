@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Even the smallest task is hard to accomplish without effort. - Tibetan Proverb
+Be happy in the moment, that's enough. Each moment is all we need, not more. - Mother Teresa
 <!--END_QUOTE-->
 
 ---
