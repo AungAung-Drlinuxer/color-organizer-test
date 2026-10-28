@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Be happy in the moment, that's enough. Each moment is all we need, not more. - Mother Teresa
+He who hesitates is a damned fool. - Mae West
 <!--END_QUOTE-->
 
 ---
