@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-He who hesitates is a damned fool. - Mae West
+Whatever satisfies the soul is truth. - Walt Whitman
 <!--END_QUOTE-->
 
 ---
