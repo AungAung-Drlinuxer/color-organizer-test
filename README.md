@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Whatever satisfies the soul is truth. - Walt Whitman
+Allow motion to equal emotion. - Elbert Hubbard
 <!--END_QUOTE-->
 
 ---
