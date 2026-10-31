@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Allow motion to equal emotion. - Elbert Hubbard
+Don't risk what is important to you, to get what is not important to you. - Warren Buffett
 <!--END_QUOTE-->
 
 ---
