@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Don't risk what is important to you, to get what is not important to you. - Warren Buffett
+If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace. - Dogen
 <!--END_QUOTE-->
 
 ---
