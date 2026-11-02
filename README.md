@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace. - Dogen
+The best of us sometimes eat our words. - Albus Dumbledore
 <!--END_QUOTE-->
 
 ---
