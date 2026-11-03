@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The best of us sometimes eat our words. - Albus Dumbledore
+Rewards and punishment is the lowest form of education. - Zhuangzi
 <!--END_QUOTE-->
 
 ---
