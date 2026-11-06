@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Impressing people is utterly different from being truly impressive. - Ryan Holiday
+Men are equal; it is not birth but virtue that makes the difference. - Voltaire
 <!--END_QUOTE-->
 
 ---
