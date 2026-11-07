@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Men are equal; it is not birth but virtue that makes the difference. - Voltaire
+Opportunity is missed by most people because it is dressed in overalls and looks like work. - Thomas Edison
 <!--END_QUOTE-->
 
 ---
