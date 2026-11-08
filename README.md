@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Opportunity is missed by most people because it is dressed in overalls and looks like work. - Thomas Edison
+Act as if what you do makes a difference. It does. - William James
 <!--END_QUOTE-->
 
 ---
