@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Act as if what you do makes a difference. It does. - William James
+If you see a get rich quick scheme, that's someone else trying to get rich off of you. - Naval Ravikant
 <!--END_QUOTE-->
 
 ---
