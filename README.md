@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-If you see a get rich quick scheme, that's someone else trying to get rich off of you. - Naval Ravikant
+The harder the conflict, the greater the triumph. - George Washington
 <!--END_QUOTE-->
 
 ---
