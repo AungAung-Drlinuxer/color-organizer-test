@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The harder the conflict, the greater the triumph. - George Washington
+All cruelty springs from weakness. - Seneca
 <!--END_QUOTE-->
 
 ---
