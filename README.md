@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way. - Robert Kiyosaki
+Nothing is more real than nothing. - Samuel Beckett
 <!--END_QUOTE-->
 
 ---
