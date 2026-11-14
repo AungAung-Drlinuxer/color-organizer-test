@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Nothing is more real than nothing. - Samuel Beckett
+Love is not about possession. Love is about appreciation. - Osho
 <!--END_QUOTE-->
 
 ---
