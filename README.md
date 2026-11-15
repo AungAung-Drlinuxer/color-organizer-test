@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Love is not about possession. Love is about appreciation. - Osho
+Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy. - Robert Kiyosaki
 <!--END_QUOTE-->
 
 ---
