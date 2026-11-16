@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy. - Robert Kiyosaki
+Everyone thinks of changing the world, but no one thinks of changing himself. - Leo Tolstoy
 <!--END_QUOTE-->
 
 ---
