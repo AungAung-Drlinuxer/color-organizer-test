@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Everyone thinks of changing the world, but no one thinks of changing himself. - Leo Tolstoy
+You give but little when you give of your possessions. It is when you give of yourself that you truly give. - Kahlil Gibran
 <!--END_QUOTE-->
 
 ---
