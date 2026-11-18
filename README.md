@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-You give but little when you give of your possessions. It is when you give of yourself that you truly give. - Kahlil Gibran
+Success is a poor teacher. - Robert Kiyosaki
 <!--END_QUOTE-->
 
 ---
