@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Success is a poor teacher. - Robert Kiyosaki
+Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment. - Celestine Chua
 <!--END_QUOTE-->
 
 ---
