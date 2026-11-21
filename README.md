@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment. - Celestine Chua
+The busy man is never wise and the wise man is never busy. - Lin Yutang
 <!--END_QUOTE-->
 
 ---
