@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The busy man is never wise and the wise man is never busy. - Lin Yutang
+The best way out is always through. - Robert Frost
 <!--END_QUOTE-->
 
 ---
