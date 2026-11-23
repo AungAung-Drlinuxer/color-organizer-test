@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The best way out is always through. - Robert Frost
+The way of success is the way of continuous pursuit of knowledge. - Napoleon Hill
 <!--END_QUOTE-->
 
 ---
