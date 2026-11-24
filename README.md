@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-The way of success is the way of continuous pursuit of knowledge. - Napoleon Hill
+Imagination means nothing without doing. - Charlie Chaplin
 <!--END_QUOTE-->
 
 ---
