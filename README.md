@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma - but we make out of them just what suits our purposes. - Alfred Adler
+Among the things you can give and still keep are your word, a smile, and a grateful heart. - Zig Ziglar
 <!--END_QUOTE-->
 
 ---
