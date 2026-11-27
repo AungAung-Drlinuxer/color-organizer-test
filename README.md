@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Among the things you can give and still keep are your word, a smile, and a grateful heart. - Zig Ziglar
+Remember that the best relationship is one in which your love for each other exceeds your need for each other. - Dalai Lama
 <!--END_QUOTE-->
 
 ---
