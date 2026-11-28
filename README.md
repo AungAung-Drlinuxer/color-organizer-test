@@ -16,7 +16,7 @@ Check out the latest deployed version here:
 ## 📜 Quote of the Day
 
 <!--START_QUOTE-->
-Remember that the best relationship is one in which your love for each other exceeds your need for each other. - Dalai Lama
+We create the world and ourselves; - Ming-Dao Deng
 <!--END_QUOTE-->
 
 ---
